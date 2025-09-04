@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.rtl.min.css"
+        integrity="sha384-q8+l9TmX3RaSz3HKGBmqP2u5MkgeN7HrfOJBLcTgZsQsbrx8WqqxdA5PuwUV9WIx" crossorigin="anonymous">
+    <title>Traffic Network Simulator</title>
+
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary sticky-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" style="font-size: 30px; margin-right:20px" id="navText">Traffic Network
+                Simulator</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link active" aria-current="page" href="/">Home</a>
+                    <a class="nav-link" href="listing.html">List</a>
+                    <a class="nav-link" href="datainput.html">Data Import</a>
+                    <a class="nav-link" href="userInteraction.html">Interaction</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    {% if error %}
+    <div class="alert alert-dark" role="alert">
+        No data uploaded <a href="datainput.html" class="alert-link"> click to upload data.</a>
+    </div>
+    {% else %}
+    <div class="container my-4">
+        <table class="table table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th style="position: sticky; top: 70px; z-index: 2;">Sr</th>
+                    <th style="position: sticky; top: 70px; z-index: 2;">source_node</th>
+                    <th style="position: sticky; top: 70px; z-index: 2;">destination_node</th>
+                    <th style="position: sticky; top: 70px; z-index: 2;">travel_time</th>
+                    <th style="position: sticky; top: 70px; z-index: 2;">distance</th>
+                    <th style="position: sticky; top: 70px; z-index: 2;">capacity</th>
+                    <th style="position: sticky; top: 70px; z-index: 2;">speed_limit</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for data in df %}
+                <tr>
+                    <th scope="row">{{loop.index}}</th>
+                    <td>{{data["source_node"]}}</td>
+                    <td>{{data["destination_node"]}}</td>
+                    <td>{{data["travel_time"]}}</td>
+                    <td>{{data["distance"]}}</td>
+                    <td>{{data["capacity"]}}</td>
+                    <td>{{data["speed_limit"]}}</td>
+                </tr>
+                {% endfor %}
+
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+
+    <a href="/">
+        <button type="button" class="btn btn-outline-dark"
+            style="position: fixed; right: 20px; bottom: 20px;">Home</button>
+    </a>
+</body>
+
+</html>

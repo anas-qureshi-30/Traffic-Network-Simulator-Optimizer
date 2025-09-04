@@ -1,0 +1,1231 @@
+source_node,destination_node,travel_time,distance,capacity,speed_limit
+Kopri,Mumbra,18,3,200,50 km/h
+Vasai,Nalasopara,6,6,210,60 km/h
+Kalyan,Ulhasnagar,25,18,250,50 km/h
+Lower Parel,Worli,35,7,230,60 km/h
+Kalyan,Ulhasnagar,50,6,220,50 km/h
+Lower Parel,Dadar,18,18,180,50 km/h
+Ulhasnagar,Ambernath,45,1,220,50 km/h
+Thane,Kopri,5,1,190,40 km/h
+Kalwa,Diva,50,14,170,60 km/h
+Haji Ali,Pedder Road,20,20,190,50 km/h
+Dahisar,Mira Road,30,4,170,60 km/h
+Byculla,Parel,50,20,160,60 km/h
+Marine Drive,Haji Ali,10,12,250,60 km/h
+Sanpada,Vashi,22,18,220,60 km/h
+Chembur,Sion,30,16,220,40 km/h
+Grant Road,Marine Drive,22,9,170,50 km/h
+Sanpada,Vashi,15,7,250,40 km/h
+Elphinstone,Currey Road,22,4,230,40 km/h
+Nerul,Sanpada,22,1,180,50 km/h
+Currey Road,Chinchpokli,18,14,210,40 km/h
+Dombivli,Kalyan,15,9,200,60 km/h
+Kopri,Mumbra,45,12,210,40 km/h
+Ulhasnagar,Ambernath,40,20,220,40 km/h
+Govandi,Chembur,8,14,210,40 km/h
+King's Circle,Sion,45,12,250,60 km/h
+Lower Parel,Worli,40,18,160,40 km/h
+Dombivli,Kalyan,15,5,210,40 km/h
+Vikhroli,Bhandup,25,1,230,40 km/h
+Sion,Dadar,5,3,150,40 km/h
+Chinchpokli,Sandhurst Road,35,18,250,40 km/h
+Ghatkopar,Vikhroli,12,4,250,40 km/h
+Matunga,King's Circle,25,4,170,60 km/h
+Nerul,Sanpada,5,1,190,40 km/h
+Mulund,Thane,10,9,180,40 km/h
+Ulhasnagar,Ambernath,10,18,210,50 km/h
+Panvel,Kharghar,45,1,160,60 km/h
+Diva,Dombivli,6,10,190,50 km/h
+Vashi,Mankhurd,50,8,180,40 km/h
+Worli,Lower Parel,50,7,190,50 km/h
+Dombivli,Kalyan,30,10,150,60 km/h
+Ghatkopar,Vikhroli,25,10,150,60 km/h
+Dadar,Matunga,10,8,190,40 km/h
+Sion,Kurla,20,4,150,50 km/h
+Marine Lines,Charni Road,40,3,230,60 km/h
+Vashi,Mankhurd,50,9,250,60 km/h
+Matunga,King's Circle,30,18,150,50 km/h
+Marine Lines,Charni Road,15,8,210,50 km/h
+Kurla,Ghatkopar,40,20,210,60 km/h
+Elphinstone,Currey Road,22,8,180,60 km/h
+Lower Parel,Worli,5,1,150,40 km/h
+Colaba,Cuffe Parade,40,16,180,50 km/h
+Vangani,Shedung,6,16,150,60 km/h
+Charni Road,Grant Road,50,2,230,60 km/h
+Byculla,Parel,22,12,230,40 km/h
+Vasai,Nalasopara,12,8,200,40 km/h
+Colaba,Cuffe Parade,15,14,210,60 km/h
+Dombivli,Kalyan,10,9,200,60 km/h
+Kurla,Ghatkopar,35,2,200,60 km/h
+Mankhurd,Govandi,40,8,160,40 km/h
+Prabhadevi,Elphinstone,50,9,230,40 km/h
+Worli,Lower Parel,45,5,200,60 km/h
+Prabhadevi,Elphinstone,45,1,210,60 km/h
+Dombivli,Kalyan,30,10,180,50 km/h
+Dockyard Road,Mazgaon,15,18,220,40 km/h
+Vashi,Mankhurd,25,16,250,60 km/h
+Cuffe Parade,Churchgate,40,4,180,60 km/h
+Pedder Road,Worli,10,12,190,60 km/h
+Dombivli,Kalyan,8,8,180,50 km/h
+Grant Road,Marine Drive,50,5,210,60 km/h
+Shedung,Panvel,22,2,190,40 km/h
+Panvel,Kharghar,45,4,250,50 km/h
+Vashi,Mankhurd,40,9,230,60 km/h
+Worli,Lower Parel,35,3,250,60 km/h
+Mankhurd,Govandi,20,10,220,50 km/h
+Sanpada,Vashi,12,5,150,60 km/h
+Kopri,Mumbra,15,1,210,50 km/h
+Chembur,Sion,5,9,220,60 km/h
+Lower Parel,Dadar,10,4,150,50 km/h
+Grant Road,Marine Drive,12,3,170,50 km/h
+Elphinstone,Currey Road,15,18,170,60 km/h
+Dombivli,Kalyan,6,9,220,40 km/h
+Chembur,Sion,45,16,160,40 km/h
+Belapur,Nerul,8,8,150,40 km/h
+Dockyard Road,Mazgaon,40,9,150,50 km/h
+Churchgate,CST,50,20,180,40 km/h
+Byculla,Parel,12,8,210,60 km/h
+Panvel,Kharghar,8,5,220,40 km/h
+Bhandup,Mulund,50,9,250,50 km/h
+Colaba,Cuffe Parade,30,4,250,60 km/h
+Elphinstone,Currey Road,40,3,230,50 km/h
+Nerul,Sanpada,35,7,220,40 km/h
+Pedder Road,Worli,40,18,150,40 km/h
+Sandhurst Road,Dockyard Road,30,4,200,50 km/h
+Vashi,Mankhurd,15,8,150,50 km/h
+Kharghar,Belapur,8,18,210,50 km/h
+Prabhadevi,Elphinstone,22,12,220,50 km/h
+Vangani,Shedung,15,16,180,40 km/h
+Prabhadevi,Elphinstone,15,5,160,60 km/h
+Elphinstone,Currey Road,18,18,210,50 km/h
+Sion,Dadar,20,16,230,50 km/h
+Nalasopara,Virar,12,7,150,40 km/h
+Parel,Lower Parel,25,5,250,40 km/h
+King's Circle,Sion,50,10,180,50 km/h
+Worli,Lower Parel,18,16,150,50 km/h
+Haji Ali,Pedder Road,20,18,250,40 km/h
+Govandi,Chembur,8,18,250,50 km/h
+Mulund,Thane,45,10,230,60 km/h
+Sanpada,Vashi,10,3,210,40 km/h
+Belapur,Nerul,6,10,210,50 km/h
+Pedder Road,Worli,25,20,190,50 km/h
+Sandhurst Road,Dockyard Road,30,9,190,40 km/h
+Kurla,Ghatkopar,45,6,150,50 km/h
+King's Circle,Sion,35,2,190,50 km/h
+Sanpada,Vashi,5,3,160,40 km/h
+Vashi,Mankhurd,5,5,210,40 km/h
+Haji Ali,Pedder Road,5,3,160,50 km/h
+CST,Marine Lines,30,6,200,50 km/h
+Mumbra,Kalwa,10,1,220,60 km/h
+Bhayandar,Vasai,45,5,200,60 km/h
+Sion,Dadar,5,10,220,60 km/h
+Vikhroli,Bhandup,15,12,180,40 km/h
+Grant Road,Marine Drive,45,1,170,40 km/h
+Kurla,Ghatkopar,50,14,210,40 km/h
+Prabhadevi,Elphinstone,22,14,200,40 km/h
+Marine Lines,Charni Road,12,4,250,40 km/h
+Dombivli,Kalyan,10,7,150,50 km/h
+Pedder Road,Worli,45,1,250,40 km/h
+Marine Lines,Charni Road,22,1,150,40 km/h
+Sanpada,Vashi,10,16,250,50 km/h
+Dombivli,Kalyan,12,16,180,50 km/h
+Parel,Lower Parel,30,20,170,40 km/h
+Charni Road,Grant Road,20,14,150,60 km/h
+Panvel,Kharghar,30,16,160,40 km/h
+Marine Lines,Charni Road,12,10,220,50 km/h
+Mumbra,Kalwa,6,8,220,50 km/h
+Kalyan,Ulhasnagar,18,6,250,60 km/h
+Vasai,Nalasopara,15,10,210,50 km/h
+Mumbra,Kalwa,45,1,190,60 km/h
+Lower Parel,Worli,22,20,250,50 km/h
+Belapur,Nerul,6,7,250,40 km/h
+Cuffe Parade,Churchgate,10,7,220,40 km/h
+Ulhasnagar,Ambernath,8,14,250,50 km/h
+Elphinstone,Currey Road,18,6,230,40 km/h
+Chembur,Sion,30,18,190,50 km/h
+Churchgate,CST,40,4,220,40 km/h
+Diva,Dombivli,45,2,160,60 km/h
+Haji Ali,Pedder Road,6,2,210,50 km/h
+Matunga,King's Circle,12,9,230,60 km/h
+Diva,Dombivli,12,12,250,60 km/h
+Prabhadevi,Elphinstone,45,1,210,60 km/h
+Vangani,Shedung,10,9,210,60 km/h
+Belapur,Nerul,35,9,220,40 km/h
+Colaba,Cuffe Parade,45,18,210,60 km/h
+Dadar,Prabhadevi,10,2,180,60 km/h
+Chembur,Sion,22,1,150,40 km/h
+Vikhroli,Bhandup,20,20,250,50 km/h
+Thane,Kopri,40,7,210,60 km/h
+Kharghar,Belapur,40,8,250,40 km/h
+Belapur,Nerul,12,1,180,40 km/h
+Marine Drive,Haji Ali,10,8,210,40 km/h
+Prabhadevi,Elphinstone,18,2,160,50 km/h
+Sanpada,Vashi,25,6,150,50 km/h
+Diva,Dombivli,8,16,160,50 km/h
+Dadar,Matunga,20,16,160,40 km/h
+Mazgaon,Byculla,35,7,250,50 km/h
+Haji Ali,Pedder Road,20,14,230,40 km/h
+Bhayandar,Vasai,25,7,230,40 km/h
+Govandi,Chembur,22,14,230,40 km/h
+Lower Parel,Worli,25,7,170,60 km/h
+Vashi,Mankhurd,35,9,230,60 km/h
+Mumbra,Kalwa,12,16,230,40 km/h
+Govandi,Chembur,25,8,160,60 km/h
+Nerul,Sanpada,35,9,170,40 km/h
+Dadar,Prabhadevi,6,4,220,40 km/h
+Colaba,Cuffe Parade,8,1,150,60 km/h
+Matunga,King's Circle,50,1,230,50 km/h
+Ghatkopar,Vikhroli,10,10,170,50 km/h
+Dockyard Road,Mazgaon,6,12,210,60 km/h
+Kalyan,Ulhasnagar,35,18,220,50 km/h
+Parel,Lower Parel,22,4,220,60 km/h
+Ulhasnagar,Ambernath,30,9,190,40 km/h
+Govandi,Chembur,18,2,200,60 km/h
+CST,Marine Lines,5,3,190,60 km/h
+Badlapur,Vangani,15,3,200,40 km/h
+Mira Road,Bhayandar,50,20,210,60 km/h
+Marine Lines,Charni Road,30,12,200,60 km/h
+Kurla,Ghatkopar,20,1,220,50 km/h
+Mira Road,Bhayandar,40,9,220,50 km/h
+Belapur,Nerul,50,2,150,60 km/h
+Ulhasnagar,Ambernath,10,6,170,60 km/h
+Bhandup,Mulund,5,9,200,40 km/h
+Pedder Road,Worli,8,20,200,60 km/h
+Thane,Kopri,25,8,150,60 km/h
+Thane,Kopri,25,20,200,50 km/h
+Dadar,Prabhadevi,10,10,160,50 km/h
+Sandhurst Road,Dockyard Road,10,6,160,50 km/h
+Sion,Kurla,22,9,150,50 km/h
+Nerul,Sanpada,8,8,200,60 km/h
+Kharghar,Belapur,50,5,220,40 km/h
+Kalwa,Diva,6,4,190,60 km/h
+Mulund,Thane,25,5,210,60 km/h
+Bhayandar,Vasai,40,16,150,40 km/h
+Ghatkopar,Vikhroli,6,12,170,40 km/h
+Cuffe Parade,Churchgate,30,14,200,50 km/h
+Vikhroli,Bhandup,50,3,190,40 km/h
+Nalasopara,Virar,35,6,210,50 km/h
+Badlapur,Vangani,12,10,220,40 km/h
+Govandi,Chembur,18,18,180,60 km/h
+Kopri,Mumbra,15,8,220,50 km/h
+Sandhurst Road,Dockyard Road,18,16,200,50 km/h
+Sanpada,Vashi,5,10,180,60 km/h
+Dadar,Matunga,18,1,250,50 km/h
+Elphinstone,Currey Road,30,6,230,60 km/h
+Ambernath,Badlapur,35,10,220,50 km/h
+Kalwa,Diva,6,4,150,60 km/h
+Ambernath,Badlapur,25,5,210,40 km/h
+Vikhroli,Bhandup,45,18,250,50 km/h
+Ghatkopar,Vikhroli,50,9,200,40 km/h
+Kalwa,Diva,50,4,160,40 km/h
+Grant Road,Marine Drive,50,4,200,60 km/h
+Ambernath,Badlapur,6,5,190,60 km/h
+Marine Drive,Haji Ali,30,12,220,50 km/h
+Mira Road,Bhayandar,5,5,220,40 km/h
+Mankhurd,Govandi,30,9,250,50 km/h
+Dadar,Matunga,50,20,200,60 km/h
+Chembur,Sion,15,4,210,60 km/h
+Charni Road,Grant Road,8,10,160,40 km/h
+Mazgaon,Byculla,5,12,250,50 km/h
+Mankhurd,Govandi,20,18,160,60 km/h
+Dahisar,Mira Road,30,20,200,40 km/h
+Byculla,Parel,18,5,170,40 km/h
+Ambernath,Badlapur,5,16,180,50 km/h
+Vasai,Nalasopara,30,2,190,50 km/h
+Charni Road,Grant Road,45,8,220,60 km/h
+Thane,Kopri,50,9,250,50 km/h
+Lower Parel,Worli,30,4,220,50 km/h
+Kurla,Ghatkopar,20,12,180,40 km/h
+Sandhurst Road,Dockyard Road,6,3,180,50 km/h
+Prabhadevi,Elphinstone,30,10,200,60 km/h
+Mazgaon,Byculla,25,16,210,60 km/h
+Grant Road,Marine Drive,50,8,190,40 km/h
+Elphinstone,Currey Road,5,12,170,60 km/h
+Thane,Kopri,22,9,210,40 km/h
+Sandhurst Road,Dockyard Road,45,12,160,50 km/h
+Sion,Kurla,20,14,210,40 km/h
+Bhayandar,Vasai,25,3,160,50 km/h
+CST,Marine Lines,50,12,160,40 km/h
+Lower Parel,Dadar,30,4,180,50 km/h
+Marine Drive,Haji Ali,15,6,180,50 km/h
+Nalasopara,Virar,22,3,180,50 km/h
+Grant Road,Marine Drive,18,16,250,50 km/h
+Pedder Road,Worli,22,20,230,40 km/h
+Sion,Dadar,35,2,210,60 km/h
+Currey Road,Chinchpokli,20,4,160,40 km/h
+Pedder Road,Worli,12,3,190,60 km/h
+Diva,Dombivli,8,10,170,40 km/h
+Dadar,Matunga,25,12,150,50 km/h
+Panvel,Kharghar,20,16,170,40 km/h
+Marine Lines,Charni Road,10,14,200,60 km/h
+Ulhasnagar,Ambernath,45,2,220,50 km/h
+Vashi,Mankhurd,15,9,230,40 km/h
+Vangani,Shedung,20,4,230,60 km/h
+Diva,Dombivli,45,2,250,50 km/h
+Byculla,Parel,5,5,180,60 km/h
+Chembur,Sion,45,4,170,60 km/h
+Diva,Dombivli,25,2,200,40 km/h
+Bhandup,Mulund,6,6,170,50 km/h
+Matunga,King's Circle,20,16,170,60 km/h
+Pedder Road,Worli,12,6,150,50 km/h
+Byculla,Parel,25,16,190,40 km/h
+Worli,Lower Parel,12,20,180,40 km/h
+Mankhurd,Govandi,35,10,180,50 km/h
+Mumbra,Kalwa,40,9,150,50 km/h
+Ulhasnagar,Ambernath,40,1,250,60 km/h
+Belapur,Nerul,22,18,210,40 km/h
+Diva,Dombivli,15,5,220,50 km/h
+Mumbra,Kalwa,20,3,170,40 km/h
+Mira Road,Bhayandar,5,10,220,40 km/h
+Mulund,Thane,50,3,160,40 km/h
+Ambernath,Badlapur,25,5,160,50 km/h
+Vikhroli,Bhandup,5,10,170,40 km/h
+Mira Road,Bhayandar,5,7,170,50 km/h
+Prabhadevi,Elphinstone,25,1,170,50 km/h
+Prabhadevi,Elphinstone,30,18,250,40 km/h
+Kharghar,Belapur,15,16,220,40 km/h
+Grant Road,Marine Drive,40,9,180,50 km/h
+Matunga,King's Circle,5,20,200,60 km/h
+Belapur,Nerul,5,20,160,60 km/h
+Marine Drive,Haji Ali,12,1,180,40 km/h
+Ghatkopar,Vikhroli,5,1,170,50 km/h
+Kopri,Mumbra,35,9,200,40 km/h
+Dahisar,Mira Road,18,5,160,60 km/h
+Pedder Road,Worli,12,20,230,40 km/h
+Sanpada,Vashi,50,6,250,60 km/h
+Shedung,Panvel,12,4,160,40 km/h
+Mumbra,Kalwa,10,2,150,40 km/h
+Nalasopara,Virar,12,4,230,40 km/h
+Dockyard Road,Mazgaon,5,10,150,60 km/h
+Panvel,Kharghar,50,2,170,60 km/h
+Mankhurd,Govandi,8,8,200,60 km/h
+Ambernath,Badlapur,20,7,190,40 km/h
+Marine Lines,Charni Road,10,4,230,40 km/h
+Panvel,Kharghar,8,1,180,40 km/h
+Mira Road,Bhayandar,5,6,180,40 km/h
+Ghatkopar,Vikhroli,15,3,170,50 km/h
+Vangani,Shedung,5,12,210,60 km/h
+Marine Drive,Haji Ali,30,20,210,60 km/h
+Prabhadevi,Elphinstone,15,16,160,40 km/h
+Dahisar,Mira Road,45,2,210,40 km/h
+Lower Parel,Worli,25,4,230,40 km/h
+Vasai,Nalasopara,20,16,210,50 km/h
+Vashi,Mankhurd,40,12,170,60 km/h
+Vangani,Shedung,30,10,190,40 km/h
+Pedder Road,Worli,40,16,170,50 km/h
+Nalasopara,Virar,40,9,190,50 km/h
+Pedder Road,Worli,35,14,150,60 km/h
+Ghatkopar,Vikhroli,35,1,180,40 km/h
+Currey Road,Chinchpokli,22,16,250,50 km/h
+Ambernath,Badlapur,18,3,220,40 km/h
+CST,Marine Lines,6,9,180,60 km/h
+Vikhroli,Bhandup,50,9,190,50 km/h
+Ghatkopar,Vikhroli,12,10,170,40 km/h
+Vikhroli,Bhandup,18,5,160,40 km/h
+Kopri,Mumbra,30,1,180,40 km/h
+Charni Road,Grant Road,35,12,180,40 km/h
+Pedder Road,Worli,20,1,190,40 km/h
+Diva,Dombivli,45,1,160,50 km/h
+Sion,Dadar,12,10,190,50 km/h
+Diva,Dombivli,50,14,180,50 km/h
+Mankhurd,Govandi,20,5,180,50 km/h
+Lower Parel,Dadar,35,3,250,50 km/h
+Dockyard Road,Mazgaon,6,9,200,60 km/h
+King's Circle,Sion,35,8,200,50 km/h
+Sanpada,Vashi,45,7,190,40 km/h
+Parel,Lower Parel,6,20,210,50 km/h
+Churchgate,CST,6,9,220,60 km/h
+Colaba,Cuffe Parade,5,5,170,50 km/h
+Nerul,Sanpada,22,3,200,40 km/h
+Lower Parel,Dadar,35,7,210,60 km/h
+Kharghar,Belapur,25,10,180,50 km/h
+King's Circle,Sion,50,14,180,60 km/h
+Currey Road,Chinchpokli,8,1,230,60 km/h
+Matunga,King's Circle,20,1,180,60 km/h
+Nerul,Sanpada,50,12,190,40 km/h
+Mulund,Thane,8,16,200,40 km/h
+Chembur,Sion,50,7,250,40 km/h
+Haji Ali,Pedder Road,22,9,170,40 km/h
+Sion,Dadar,18,6,250,50 km/h
+Grant Road,Marine Drive,6,12,160,40 km/h
+Vikhroli,Bhandup,6,7,160,40 km/h
+Dombivli,Kalyan,25,3,170,40 km/h
+Kalyan,Ulhasnagar,25,16,160,50 km/h
+Kalwa,Diva,18,16,200,40 km/h
+Pedder Road,Worli,25,5,180,60 km/h
+Chinchpokli,Sandhurst Road,15,20,150,50 km/h
+Ghatkopar,Vikhroli,18,10,190,50 km/h
+Chembur,Sion,6,16,150,50 km/h
+Vashi,Mankhurd,15,20,170,60 km/h
+Vangani,Shedung,35,16,150,50 km/h
+Belapur,Nerul,45,9,200,50 km/h
+Badlapur,Vangani,8,1,220,40 km/h
+Kalyan,Ulhasnagar,12,18,170,40 km/h
+Govandi,Chembur,8,18,150,50 km/h
+Sandhurst Road,Dockyard Road,18,2,210,50 km/h
+Worli,Lower Parel,10,8,190,50 km/h
+Panvel,Kharghar,35,18,200,60 km/h
+Bhayandar,Vasai,15,4,210,50 km/h
+Sion,Dadar,15,16,170,60 km/h
+Dockyard Road,Mazgaon,40,7,230,60 km/h
+Haji Ali,Pedder Road,20,3,230,40 km/h
+Govandi,Chembur,10,7,230,50 km/h
+Bhayandar,Vasai,5,4,250,60 km/h
+CST,Marine Lines,25,1,250,60 km/h
+Lower Parel,Worli,25,1,150,60 km/h
+King's Circle,Sion,18,18,220,40 km/h
+Ghatkopar,Vikhroli,35,4,250,50 km/h
+Nalasopara,Virar,50,5,170,40 km/h
+Cuffe Parade,Churchgate,12,20,200,40 km/h
+Prabhadevi,Elphinstone,5,20,220,50 km/h
+Haji Ali,Pedder Road,45,6,170,60 km/h
+Lower Parel,Worli,6,18,170,60 km/h
+Lower Parel,Dadar,15,7,210,60 km/h
+Mankhurd,Govandi,22,2,230,60 km/h
+Mankhurd,Govandi,30,5,230,60 km/h
+Bhandup,Mulund,12,5,170,50 km/h
+Ulhasnagar,Ambernath,22,8,250,50 km/h
+Mankhurd,Govandi,12,6,220,60 km/h
+Vangani,Shedung,6,6,150,40 km/h
+Elphinstone,Currey Road,22,2,170,40 km/h
+King's Circle,Sion,5,6,210,50 km/h
+Mumbra,Kalwa,15,2,150,60 km/h
+Sion,Dadar,20,1,250,50 km/h
+Dombivli,Kalyan,20,8,220,50 km/h
+Dadar,Prabhadevi,15,12,200,40 km/h
+Kopri,Mumbra,8,3,210,60 km/h
+Matunga,King's Circle,45,5,230,60 km/h
+Worli,Lower Parel,22,20,210,40 km/h
+CST,Marine Lines,6,10,250,40 km/h
+Vangani,Shedung,8,4,230,60 km/h
+Sion,Kurla,15,3,150,40 km/h
+Shedung,Panvel,10,10,210,50 km/h
+Nalasopara,Virar,6,12,160,60 km/h
+Sion,Kurla,10,2,220,50 km/h
+Lower Parel,Dadar,50,4,210,40 km/h
+Prabhadevi,Elphinstone,35,12,150,60 km/h
+Diva,Dombivli,8,4,160,60 km/h
+Dadar,Matunga,22,12,180,50 km/h
+Kurla,Ghatkopar,50,12,250,40 km/h
+Ambernath,Badlapur,8,18,210,40 km/h
+Diva,Dombivli,22,7,220,50 km/h
+Govandi,Chembur,25,10,200,50 km/h
+Sion,Kurla,12,18,220,60 km/h
+Dombivli,Kalyan,40,3,170,60 km/h
+Kurla,Ghatkopar,18,20,180,50 km/h
+Grant Road,Marine Drive,6,3,180,60 km/h
+Dahisar,Mira Road,45,5,180,40 km/h
+Dockyard Road,Mazgaon,50,6,170,60 km/h
+Sion,Kurla,6,6,180,40 km/h
+Kharghar,Belapur,35,8,230,50 km/h
+Shedung,Panvel,40,20,230,50 km/h
+Dockyard Road,Mazgaon,15,9,210,50 km/h
+Lower Parel,Worli,12,5,210,50 km/h
+Mazgaon,Byculla,5,2,150,40 km/h
+Mumbra,Kalwa,12,7,190,40 km/h
+Nerul,Sanpada,35,4,170,40 km/h
+Parel,Lower Parel,20,20,230,60 km/h
+Bhayandar,Vasai,18,10,210,50 km/h
+Dadar,Prabhadevi,30,3,250,50 km/h
+Thane,Kopri,25,3,220,50 km/h
+Kalyan,Ulhasnagar,10,12,210,50 km/h
+Colaba,Cuffe Parade,50,4,160,60 km/h
+Badlapur,Vangani,5,2,200,50 km/h
+Haji Ali,Pedder Road,10,18,200,40 km/h
+Panvel,Kharghar,10,5,210,40 km/h
+Grant Road,Marine Drive,15,4,220,40 km/h
+Kopri,Mumbra,5,6,170,50 km/h
+Marine Lines,Charni Road,25,20,190,60 km/h
+Marine Lines,Charni Road,8,18,170,40 km/h
+Matunga,King's Circle,25,20,250,60 km/h
+Ambernath,Badlapur,50,5,220,50 km/h
+Cuffe Parade,Churchgate,30,20,250,50 km/h
+Nalasopara,Virar,35,9,200,50 km/h
+Vasai,Nalasopara,45,1,250,40 km/h
+Bhayandar,Vasai,40,16,160,40 km/h
+Ambernath,Badlapur,50,7,220,60 km/h
+Kalyan,Ulhasnagar,6,14,150,50 km/h
+Shedung,Panvel,20,3,200,50 km/h
+Bhandup,Mulund,15,5,230,50 km/h
+Bhayandar,Vasai,45,3,220,60 km/h
+CST,Marine Lines,10,14,250,40 km/h
+Dadar,Prabhadevi,25,12,210,60 km/h
+Badlapur,Vangani,10,2,220,60 km/h
+Grant Road,Marine Drive,30,10,160,40 km/h
+Byculla,Parel,30,9,220,50 km/h
+Kharghar,Belapur,5,7,250,50 km/h
+Byculla,Parel,6,14,220,50 km/h
+Belapur,Nerul,18,6,210,40 km/h
+Lower Parel,Dadar,10,8,150,60 km/h
+Sion,Kurla,40,14,220,50 km/h
+Colaba,Cuffe Parade,20,3,200,40 km/h
+Nalasopara,Virar,45,4,170,40 km/h
+Kopri,Mumbra,12,12,200,60 km/h
+Sion,Dadar,10,3,180,40 km/h
+Sandhurst Road,Dockyard Road,8,4,230,50 km/h
+Chembur,Sion,22,4,200,50 km/h
+Ulhasnagar,Ambernath,30,9,150,60 km/h
+Sion,Dadar,30,5,190,40 km/h
+Mankhurd,Govandi,15,20,220,60 km/h
+Mankhurd,Govandi,5,12,170,40 km/h
+Haji Ali,Pedder Road,22,9,230,40 km/h
+Churchgate,CST,20,4,160,60 km/h
+Kurla,Ghatkopar,35,1,150,40 km/h
+Diva,Dombivli,50,3,200,60 km/h
+Bhayandar,Vasai,12,6,160,50 km/h
+Grant Road,Marine Drive,22,4,220,50 km/h
+Vashi,Mankhurd,40,1,180,60 km/h
+Dadar,Prabhadevi,40,18,190,60 km/h
+Dockyard Road,Mazgaon,35,16,160,50 km/h
+Shedung,Panvel,30,3,150,50 km/h
+Dombivli,Kalyan,15,9,180,50 km/h
+Sanpada,Vashi,25,3,160,40 km/h
+Prabhadevi,Elphinstone,45,12,250,50 km/h
+Badlapur,Vangani,10,6,230,50 km/h
+Kurla,Ghatkopar,10,16,250,50 km/h
+CST,Marine Lines,8,9,250,40 km/h
+Elphinstone,Currey Road,45,8,170,40 km/h
+Dahisar,Mira Road,10,9,190,40 km/h
+Kharghar,Belapur,8,7,230,40 km/h
+Vashi,Mankhurd,10,12,210,50 km/h
+Thane,Kopri,5,3,180,60 km/h
+Mankhurd,Govandi,15,5,210,50 km/h
+Haji Ali,Pedder Road,12,7,180,60 km/h
+Mankhurd,Govandi,22,9,230,60 km/h
+Cuffe Parade,Churchgate,22,12,250,60 km/h
+King's Circle,Sion,25,10,150,60 km/h
+Kurla,Ghatkopar,25,7,200,40 km/h
+Sandhurst Road,Dockyard Road,10,8,170,50 km/h
+Vasai,Nalasopara,50,8,250,50 km/h
+Thane,Kopri,6,1,200,40 km/h
+Worli,Lower Parel,12,16,190,50 km/h
+Byculla,Parel,10,5,180,50 km/h
+Haji Ali,Pedder Road,12,14,160,60 km/h
+Kalwa,Diva,18,6,180,40 km/h
+Belapur,Nerul,5,10,220,50 km/h
+Mankhurd,Govandi,6,9,190,40 km/h
+Ulhasnagar,Ambernath,40,7,200,50 km/h
+Elphinstone,Currey Road,35,10,150,50 km/h
+Lower Parel,Worli,35,4,160,40 km/h
+Kalyan,Ulhasnagar,18,6,150,50 km/h
+Cuffe Parade,Churchgate,6,3,150,60 km/h
+Prabhadevi,Elphinstone,20,7,150,50 km/h
+King's Circle,Sion,40,16,210,50 km/h
+Ambernath,Badlapur,40,12,150,60 km/h
+Sion,Dadar,5,1,160,40 km/h
+Churchgate,CST,30,7,210,60 km/h
+Worli,Lower Parel,40,7,200,60 km/h
+Pedder Road,Worli,12,14,160,40 km/h
+Ulhasnagar,Ambernath,50,10,160,60 km/h
+Mira Road,Bhayandar,20,4,210,60 km/h
+Bhayandar,Vasai,35,20,220,60 km/h
+Nerul,Sanpada,12,12,150,50 km/h
+Belapur,Nerul,25,6,200,50 km/h
+Mumbra,Kalwa,15,6,150,60 km/h
+Dockyard Road,Mazgaon,18,18,220,40 km/h
+Dombivli,Kalyan,6,14,150,60 km/h
+Mumbra,Kalwa,6,4,190,40 km/h
+Prabhadevi,Elphinstone,12,1,220,40 km/h
+Lower Parel,Worli,8,4,230,40 km/h
+Belapur,Nerul,35,20,250,50 km/h
+King's Circle,Sion,6,4,210,40 km/h
+Haji Ali,Pedder Road,45,20,200,60 km/h
+Kalyan,Ulhasnagar,35,18,250,60 km/h
+Kalwa,Diva,5,4,160,40 km/h
+Ambernath,Badlapur,20,6,180,40 km/h
+Diva,Dombivli,10,7,250,50 km/h
+Kopri,Mumbra,8,16,190,40 km/h
+Sanpada,Vashi,8,4,190,60 km/h
+Mumbra,Kalwa,45,7,250,40 km/h
+Mumbra,Kalwa,22,12,220,60 km/h
+Diva,Dombivli,22,12,150,50 km/h
+Sanpada,Vashi,25,9,160,60 km/h
+Ulhasnagar,Ambernath,8,3,160,40 km/h
+Sanpada,Vashi,45,18,150,40 km/h
+Mulund,Thane,20,2,150,60 km/h
+Dahisar,Mira Road,6,12,200,60 km/h
+Bhayandar,Vasai,35,2,170,50 km/h
+Sion,Dadar,50,14,160,50 km/h
+Kurla,Ghatkopar,20,16,250,60 km/h
+Diva,Dombivli,45,18,250,50 km/h
+Sion,Kurla,22,9,220,60 km/h
+Diva,Dombivli,5,3,210,40 km/h
+Sion,Kurla,8,6,180,50 km/h
+Marine Drive,Haji Ali,30,12,170,60 km/h
+Belapur,Nerul,35,12,210,50 km/h
+Bhayandar,Vasai,30,18,210,40 km/h
+Byculla,Parel,45,20,250,60 km/h
+Bhayandar,Vasai,25,3,230,50 km/h
+Ghatkopar,Vikhroli,30,2,160,40 km/h
+Ulhasnagar,Ambernath,12,12,200,60 km/h
+Haji Ali,Pedder Road,45,3,190,50 km/h
+Grant Road,Marine Drive,18,4,210,50 km/h
+Matunga,King's Circle,5,1,250,40 km/h
+Colaba,Cuffe Parade,22,16,250,50 km/h
+Byculla,Parel,8,10,150,40 km/h
+Currey Road,Chinchpokli,22,3,200,40 km/h
+Dahisar,Mira Road,50,14,150,60 km/h
+Sion,Kurla,15,16,170,60 km/h
+Kharghar,Belapur,35,9,160,50 km/h
+Currey Road,Chinchpokli,22,18,250,50 km/h
+Ulhasnagar,Ambernath,35,20,200,60 km/h
+Sanpada,Vashi,35,10,150,40 km/h
+Vangani,Shedung,10,1,220,40 km/h
+Marine Lines,Charni Road,5,1,250,60 km/h
+Pedder Road,Worli,22,14,200,40 km/h
+Govandi,Chembur,10,9,150,60 km/h
+Chinchpokli,Sandhurst Road,5,2,180,60 km/h
+Vashi,Mankhurd,40,20,210,50 km/h
+Marine Drive,Haji Ali,15,9,230,50 km/h
+Sandhurst Road,Dockyard Road,22,9,220,60 km/h
+Ulhasnagar,Ambernath,12,1,230,40 km/h
+Haji Ali,Pedder Road,30,18,160,60 km/h
+Colaba,Cuffe Parade,6,20,200,50 km/h
+Badlapur,Vangani,5,16,180,50 km/h
+Vangani,Shedung,5,2,230,40 km/h
+Belapur,Nerul,22,6,190,50 km/h
+Chinchpokli,Sandhurst Road,12,9,160,50 km/h
+Kopri,Mumbra,50,10,250,50 km/h
+Vasai,Nalasopara,5,6,150,60 km/h
+Dockyard Road,Mazgaon,20,2,160,50 km/h
+Thane,Kopri,10,5,220,60 km/h
+Marine Lines,Charni Road,40,5,180,60 km/h
+Badlapur,Vangani,22,6,150,40 km/h
+Sanpada,Vashi,22,7,180,40 km/h
+Panvel,Kharghar,35,10,170,60 km/h
+Ambernath,Badlapur,50,18,220,50 km/h
+Dadar,Matunga,20,16,190,40 km/h
+Matunga,King's Circle,18,12,160,60 km/h
+Mazgaon,Byculla,40,16,180,60 km/h
+Panvel,Kharghar,30,1,170,50 km/h
+Parel,Lower Parel,45,1,230,50 km/h
+Kopri,Mumbra,8,5,150,40 km/h
+Kopri,Mumbra,6,3,200,40 km/h
+Dadar,Prabhadevi,15,7,230,50 km/h
+Kharghar,Belapur,8,8,160,40 km/h
+Nalasopara,Virar,50,8,150,50 km/h
+Vangani,Shedung,50,2,230,50 km/h
+Chinchpokli,Sandhurst Road,30,8,250,40 km/h
+Kalwa,Diva,25,10,210,60 km/h
+Vashi,Mankhurd,20,10,230,60 km/h
+Belapur,Nerul,15,12,160,60 km/h
+Bhayandar,Vasai,30,4,200,40 km/h
+Grant Road,Marine Drive,6,20,160,60 km/h
+Kalyan,Ulhasnagar,40,3,250,60 km/h
+Elphinstone,Currey Road,35,12,250,50 km/h
+Charni Road,Grant Road,22,2,250,50 km/h
+Kharghar,Belapur,10,20,250,50 km/h
+Kalyan,Ulhasnagar,5,14,230,40 km/h
+Dahisar,Mira Road,6,7,160,40 km/h
+Grant Road,Marine Drive,40,6,230,50 km/h
+Grant Road,Marine Drive,10,10,250,40 km/h
+Ghatkopar,Vikhroli,20,12,230,50 km/h
+Mulund,Thane,35,6,250,40 km/h
+Badlapur,Vangani,5,7,190,50 km/h
+Sion,Dadar,12,5,230,40 km/h
+Lower Parel,Worli,18,4,220,60 km/h
+Shedung,Panvel,8,14,200,40 km/h
+Sion,Kurla,45,20,230,60 km/h
+Grant Road,Marine Drive,10,3,160,50 km/h
+Churchgate,CST,18,16,200,60 km/h
+Currey Road,Chinchpokli,30,2,250,60 km/h
+Kharghar,Belapur,25,20,150,40 km/h
+Matunga,King's Circle,40,6,180,60 km/h
+Mankhurd,Govandi,6,14,150,40 km/h
+Chembur,Sion,22,5,170,40 km/h
+Grant Road,Marine Drive,25,10,170,60 km/h
+Dahisar,Mira Road,5,10,200,60 km/h
+Kurla,Ghatkopar,22,1,150,50 km/h
+Pedder Road,Worli,15,2,230,50 km/h
+Byculla,Parel,40,4,190,50 km/h
+Byculla,Parel,35,7,170,60 km/h
+Ulhasnagar,Ambernath,5,18,180,60 km/h
+Mumbra,Kalwa,20,6,150,40 km/h
+Mankhurd,Govandi,8,9,150,60 km/h
+Mazgaon,Byculla,40,1,230,50 km/h
+Dadar,Matunga,22,3,190,60 km/h
+Sandhurst Road,Dockyard Road,15,12,220,40 km/h
+Currey Road,Chinchpokli,5,5,190,50 km/h
+Nerul,Sanpada,8,16,150,50 km/h
+Cuffe Parade,Churchgate,30,10,150,50 km/h
+Grant Road,Marine Drive,8,5,160,40 km/h
+Churchgate,CST,6,9,210,40 km/h
+Bhandup,Mulund,10,10,180,40 km/h
+Vikhroli,Bhandup,12,6,200,50 km/h
+Vikhroli,Bhandup,45,1,250,60 km/h
+Bhandup,Mulund,50,7,200,40 km/h
+Currey Road,Chinchpokli,45,20,210,60 km/h
+Cuffe Parade,Churchgate,20,10,200,60 km/h
+Sanpada,Vashi,15,2,170,40 km/h
+Sanpada,Vashi,12,10,230,60 km/h
+Vikhroli,Bhandup,40,10,160,50 km/h
+Haji Ali,Pedder Road,50,20,210,40 km/h
+Kopri,Mumbra,15,1,150,40 km/h
+Kalyan,Ulhasnagar,50,12,160,40 km/h
+Diva,Dombivli,25,18,150,40 km/h
+Shedung,Panvel,50,1,190,40 km/h
+Sion,Kurla,22,2,230,40 km/h
+Charni Road,Grant Road,6,2,220,50 km/h
+Nalasopara,Virar,30,7,250,60 km/h
+Vikhroli,Bhandup,35,9,210,50 km/h
+Kalyan,Ulhasnagar,5,12,180,50 km/h
+Sandhurst Road,Dockyard Road,50,12,250,60 km/h
+Marine Drive,Haji Ali,10,3,250,60 km/h
+Bhayandar,Vasai,6,16,220,50 km/h
+Dockyard Road,Mazgaon,35,1,220,50 km/h
+Colaba,Cuffe Parade,15,14,220,50 km/h
+Bhayandar,Vasai,6,20,230,50 km/h
+Shedung,Panvel,22,7,250,50 km/h
+Dombivli,Kalyan,35,14,250,50 km/h
+Mankhurd,Govandi,20,14,190,60 km/h
+Govandi,Chembur,22,20,170,50 km/h
+Diva,Dombivli,18,10,220,40 km/h
+Marine Lines,Charni Road,6,1,210,60 km/h
+Sandhurst Road,Dockyard Road,5,8,230,50 km/h
+Prabhadevi,Elphinstone,5,14,170,60 km/h
+Haji Ali,Pedder Road,30,5,150,50 km/h
+Bhayandar,Vasai,6,5,200,50 km/h
+Vashi,Mankhurd,15,20,210,50 km/h
+Sandhurst Road,Dockyard Road,5,12,160,40 km/h
+Grant Road,Marine Drive,45,20,200,50 km/h
+Haji Ali,Pedder Road,15,16,160,60 km/h
+Ulhasnagar,Ambernath,30,8,150,50 km/h
+Mulund,Thane,12,20,230,60 km/h
+Sion,Kurla,22,8,200,50 km/h
+Kharghar,Belapur,45,6,250,40 km/h
+Cuffe Parade,Churchgate,20,9,210,50 km/h
+Mazgaon,Byculla,8,2,170,60 km/h
+Nerul,Sanpada,35,18,170,50 km/h
+Ambernath,Badlapur,25,9,200,60 km/h
+Ulhasnagar,Ambernath,40,12,150,40 km/h
+Byculla,Parel,35,9,160,60 km/h
+Grant Road,Marine Drive,22,5,180,50 km/h
+Nalasopara,Virar,8,5,200,40 km/h
+Dadar,Prabhadevi,12,4,210,50 km/h
+Cuffe Parade,Churchgate,50,7,180,50 km/h
+Vikhroli,Bhandup,15,4,170,60 km/h
+Mazgaon,Byculla,8,1,210,60 km/h
+Kurla,Ghatkopar,15,8,160,60 km/h
+Nerul,Sanpada,8,14,230,60 km/h
+Nalasopara,Virar,20,8,220,40 km/h
+Kalwa,Diva,10,5,230,50 km/h
+Dockyard Road,Mazgaon,10,8,250,50 km/h
+Marine Drive,Haji Ali,5,4,170,60 km/h
+Thane,Kopri,6,20,210,50 km/h
+Vikhroli,Bhandup,6,1,190,50 km/h
+Cuffe Parade,Churchgate,15,6,210,50 km/h
+Dahisar,Mira Road,12,6,230,60 km/h
+Diva,Dombivli,25,2,170,50 km/h
+Mazgaon,Byculla,18,5,160,50 km/h
+Churchgate,CST,45,16,170,40 km/h
+Sion,Dadar,8,14,160,50 km/h
+Cuffe Parade,Churchgate,5,10,170,60 km/h
+Kopri,Mumbra,25,10,250,60 km/h
+Shedung,Panvel,30,5,160,60 km/h
+Belapur,Nerul,20,4,160,40 km/h
+Worli,Lower Parel,18,6,200,60 km/h
+Diva,Dombivli,20,7,150,60 km/h
+Cuffe Parade,Churchgate,40,2,160,60 km/h
+Marine Drive,Haji Ali,35,20,170,50 km/h
+Byculla,Parel,18,7,210,50 km/h
+Dahisar,Mira Road,20,9,190,50 km/h
+Govandi,Chembur,18,16,160,60 km/h
+Sion,Kurla,22,18,220,50 km/h
+Shedung,Panvel,8,5,170,60 km/h
+Vikhroli,Bhandup,40,2,190,40 km/h
+Dombivli,Kalyan,6,12,230,40 km/h
+Kalwa,Diva,10,1,220,50 km/h
+Kharghar,Belapur,40,1,180,60 km/h
+Dockyard Road,Mazgaon,10,10,170,40 km/h
+Kopri,Mumbra,40,14,160,40 km/h
+Elphinstone,Currey Road,12,5,210,60 km/h
+Govandi,Chembur,15,8,210,50 km/h
+Mira Road,Bhayandar,15,4,170,60 km/h
+Mumbra,Kalwa,35,12,220,40 km/h
+Colaba,Cuffe Parade,15,18,160,40 km/h
+Matunga,King's Circle,8,7,180,50 km/h
+Panvel,Kharghar,15,5,170,40 km/h
+Mankhurd,Govandi,12,3,170,60 km/h
+Vikhroli,Bhandup,10,16,190,60 km/h
+Dadar,Matunga,10,16,200,60 km/h
+King's Circle,Sion,6,7,170,60 km/h
+Lower Parel,Dadar,15,9,220,60 km/h
+Dadar,Prabhadevi,20,5,190,60 km/h
+Mazgaon,Byculla,25,6,250,60 km/h
+Lower Parel,Dadar,45,1,190,60 km/h
+Matunga,King's Circle,35,10,250,40 km/h
+Dahisar,Mira Road,30,9,190,50 km/h
+Kalyan,Ulhasnagar,35,9,190,50 km/h
+Churchgate,CST,35,2,220,40 km/h
+Haji Ali,Pedder Road,15,10,190,60 km/h
+Bhandup,Mulund,40,1,250,60 km/h
+Kharghar,Belapur,50,8,160,60 km/h
+Sion,Dadar,22,8,200,60 km/h
+Grant Road,Marine Drive,22,1,160,50 km/h
+Bhayandar,Vasai,18,8,190,50 km/h
+Panvel,Kharghar,45,20,160,50 km/h
+Sanpada,Vashi,25,8,220,40 km/h
+Prabhadevi,Elphinstone,45,9,190,40 km/h
+Dockyard Road,Mazgaon,12,2,190,50 km/h
+Grant Road,Marine Drive,30,20,150,60 km/h
+Nalasopara,Virar,50,4,180,40 km/h
+Mulund,Thane,5,14,250,50 km/h
+Kurla,Ghatkopar,20,6,210,40 km/h
+Lower Parel,Dadar,15,8,210,60 km/h
+Vangani,Shedung,30,16,220,60 km/h
+Govandi,Chembur,35,20,150,40 km/h
+Nerul,Sanpada,6,12,250,40 km/h
+Sanpada,Vashi,18,12,160,60 km/h
+Vikhroli,Bhandup,25,10,220,50 km/h
+Diva,Dombivli,5,7,200,60 km/h
+Bhandup,Mulund,30,6,190,50 km/h
+Pedder Road,Worli,12,5,200,60 km/h
+Dockyard Road,Mazgaon,50,16,200,50 km/h
+Sandhurst Road,Dockyard Road,18,18,190,40 km/h
+Panvel,Kharghar,5,4,200,50 km/h
+Marine Drive,Haji Ali,10,7,200,50 km/h
+Prabhadevi,Elphinstone,20,1,160,60 km/h
+Mazgaon,Byculla,30,4,250,40 km/h
+Nalasopara,Virar,35,20,220,40 km/h
+Dombivli,Kalyan,50,16,230,60 km/h
+Marine Drive,Haji Ali,25,12,180,60 km/h
+Dahisar,Mira Road,35,14,150,50 km/h
+Bhayandar,Vasai,10,6,230,40 km/h
+Charni Road,Grant Road,10,18,230,50 km/h
+Dockyard Road,Mazgaon,45,3,180,40 km/h
+Dombivli,Kalyan,22,4,150,60 km/h
+Sion,Dadar,5,3,210,60 km/h
+Mulund,Thane,6,5,200,60 km/h
+Mumbra,Kalwa,30,10,150,50 km/h
+Matunga,King's Circle,6,2,220,60 km/h
+Cuffe Parade,Churchgate,22,6,250,50 km/h
+Grant Road,Marine Drive,50,2,250,40 km/h
+Chembur,Sion,22,1,160,60 km/h
+Kalyan,Ulhasnagar,20,8,190,40 km/h
+Govandi,Chembur,30,8,190,60 km/h
+Kalyan,Ulhasnagar,6,10,150,50 km/h
+Mankhurd,Govandi,15,18,230,60 km/h
+Parel,Lower Parel,30,9,170,50 km/h
+Shedung,Panvel,6,20,190,50 km/h
+Byculla,Parel,30,4,200,50 km/h
+Govandi,Chembur,50,8,250,50 km/h
+Mumbra,Kalwa,8,18,160,40 km/h
+King's Circle,Sion,6,2,200,60 km/h
+Kopri,Mumbra,40,14,170,60 km/h
+Vikhroli,Bhandup,5,8,160,60 km/h
+Kharghar,Belapur,35,8,190,60 km/h
+Bhandup,Mulund,8,1,230,40 km/h
+Belapur,Nerul,20,7,170,60 km/h
+Ulhasnagar,Ambernath,45,16,170,50 km/h
+Shedung,Panvel,35,20,160,50 km/h
+Elphinstone,Currey Road,45,20,230,50 km/h
+Dahisar,Mira Road,30,10,220,60 km/h
+Chinchpokli,Sandhurst Road,22,16,250,40 km/h
+Dahisar,Mira Road,35,10,210,60 km/h
+Ulhasnagar,Ambernath,8,5,180,50 km/h
+Badlapur,Vangani,22,4,250,60 km/h
+Parel,Lower Parel,30,14,230,40 km/h
+Dombivli,Kalyan,50,18,190,50 km/h
+Cuffe Parade,Churchgate,15,16,180,40 km/h
+Badlapur,Vangani,10,12,150,60 km/h
+Thane,Kopri,35,5,250,50 km/h
+Vangani,Shedung,15,5,230,40 km/h
+Nalasopara,Virar,35,7,250,50 km/h
+Govandi,Chembur,15,4,220,50 km/h
+Mumbra,Kalwa,40,2,230,40 km/h
+Govandi,Chembur,22,1,190,60 km/h
+Kalwa,Diva,25,4,160,60 km/h
+Diva,Dombivli,50,5,250,60 km/h
+Chembur,Sion,6,12,200,60 km/h
+Dombivli,Kalyan,30,20,230,40 km/h
+Kurla,Ghatkopar,40,14,210,60 km/h
+Panvel,Kharghar,5,4,250,40 km/h
+Kalwa,Diva,40,9,170,50 km/h
+Vangani,Shedung,30,7,220,50 km/h
+Chinchpokli,Sandhurst Road,15,18,230,60 km/h
+Charni Road,Grant Road,35,9,220,40 km/h
+Kurla,Ghatkopar,20,18,160,60 km/h
+Chembur,Sion,10,5,170,40 km/h
+Worli,Lower Parel,10,20,190,60 km/h
+Shedung,Panvel,18,2,230,50 km/h
+Mumbra,Kalwa,30,8,210,40 km/h
+Kalyan,Ulhasnagar,5,4,190,40 km/h
+Dombivli,Kalyan,30,7,220,50 km/h
+Sion,Kurla,30,9,210,60 km/h
+CST,Marine Lines,10,16,230,50 km/h
+Lower Parel,Worli,8,3,210,50 km/h
+Mira Road,Bhayandar,18,20,160,60 km/h
+Diva,Dombivli,12,7,170,50 km/h
+Marine Lines,Charni Road,50,3,230,40 km/h
+Chembur,Sion,5,10,160,50 km/h
+Nerul,Sanpada,20,20,250,60 km/h
+Charni Road,Grant Road,18,9,220,40 km/h
+Belapur,Nerul,8,10,160,40 km/h
+Dockyard Road,Mazgaon,8,12,170,40 km/h
+Parel,Lower Parel,20,20,170,50 km/h
+Worli,Lower Parel,25,5,230,60 km/h
+Haji Ali,Pedder Road,10,8,160,50 km/h
+Bhayandar,Vasai,45,20,210,60 km/h
+Marine Lines,Charni Road,18,16,170,50 km/h
+Lower Parel,Worli,10,4,220,50 km/h
+Mankhurd,Govandi,30,6,180,50 km/h
+Sandhurst Road,Dockyard Road,20,6,150,60 km/h
+Haji Ali,Pedder Road,10,12,170,50 km/h
+Mankhurd,Govandi,30,1,230,60 km/h
+Pedder Road,Worli,35,4,180,50 km/h
+Badlapur,Vangani,30,16,180,40 km/h
+Kopri,Mumbra,45,1,200,50 km/h
+Badlapur,Vangani,18,16,170,50 km/h
+Chembur,Sion,8,6,210,60 km/h
+Badlapur,Vangani,22,5,150,50 km/h
+Haji Ali,Pedder Road,45,14,160,60 km/h
+Worli,Lower Parel,10,18,160,50 km/h
+Ulhasnagar,Ambernath,6,12,190,40 km/h
+Bhandup,Mulund,45,7,190,60 km/h
+Chembur,Sion,8,16,220,60 km/h
+Panvel,Kharghar,22,6,190,40 km/h
+Sion,Dadar,30,14,230,50 km/h
+Haji Ali,Pedder Road,18,20,170,50 km/h
+Ambernath,Badlapur,15,16,160,60 km/h
+Cuffe Parade,Churchgate,10,14,210,60 km/h
+Vasai,Nalasopara,12,20,190,60 km/h
+Vikhroli,Bhandup,20,9,170,60 km/h
+Ulhasnagar,Ambernath,12,2,180,50 km/h
+Vikhroli,Bhandup,45,16,170,60 km/h
+Churchgate,CST,20,1,170,40 km/h
+Ghatkopar,Vikhroli,10,10,210,50 km/h
+Kharghar,Belapur,40,8,180,60 km/h
+Mulund,Thane,10,3,160,40 km/h
+Dadar,Matunga,45,5,200,60 km/h
+Ulhasnagar,Ambernath,35,14,230,40 km/h
+Elphinstone,Currey Road,10,5,150,50 km/h
+Dadar,Prabhadevi,45,7,170,40 km/h
+Bhandup,Mulund,22,18,170,60 km/h
+Chinchpokli,Sandhurst Road,10,16,200,60 km/h
+Lower Parel,Dadar,35,9,200,50 km/h
+Mankhurd,Govandi,20,2,170,50 km/h
+Elphinstone,Currey Road,10,18,200,50 km/h
+Pedder Road,Worli,8,12,180,40 km/h
+Govandi,Chembur,8,2,210,60 km/h
+Sion,Kurla,10,20,180,60 km/h
+Nalasopara,Virar,30,1,180,40 km/h
+Belapur,Nerul,50,1,180,60 km/h
+Sanpada,Vashi,10,20,200,60 km/h
+Dadar,Prabhadevi,5,20,160,50 km/h
+Dadar,Matunga,18,1,200,60 km/h
+Marine Lines,Charni Road,6,18,160,60 km/h
+Sion,Kurla,6,2,190,50 km/h
+Matunga,King's Circle,35,9,190,50 km/h
+Ambernath,Badlapur,25,16,220,50 km/h
+Panvel,Kharghar,25,10,210,60 km/h
+Vikhroli,Bhandup,5,2,170,40 km/h
+Nerul,Sanpada,40,7,220,40 km/h
+Bhayandar,Vasai,35,14,220,50 km/h
+Dockyard Road,Mazgaon,6,3,210,40 km/h
+Badlapur,Vangani,10,20,200,40 km/h
+Worli,Lower Parel,12,14,180,60 km/h
+Lower Parel,Worli,35,6,210,40 km/h
+Matunga,King's Circle,35,4,220,50 km/h
+Kharghar,Belapur,20,10,150,40 km/h
+Vikhroli,Bhandup,12,7,210,50 km/h
+Belapur,Nerul,20,1,220,50 km/h
+Kalyan,Ulhasnagar,18,7,190,60 km/h
+Colaba,Cuffe Parade,20,5,190,50 km/h
+Bhandup,Mulund,30,10,250,40 km/h
+Govandi,Chembur,30,1,220,40 km/h
+Dadar,Matunga,12,10,170,50 km/h
+Elphinstone,Currey Road,30,7,200,60 km/h
+Mulund,Thane,6,9,220,50 km/h
+Sion,Dadar,12,2,220,50 km/h
+Mumbra,Kalwa,40,14,190,60 km/h
+Nalasopara,Virar,8,7,190,50 km/h
+Kharghar,Belapur,40,5,150,60 km/h
+Kopri,Mumbra,18,5,170,60 km/h
+Bhayandar,Vasai,18,2,170,60 km/h
+Ambernath,Badlapur,50,18,200,60 km/h
+Sion,Kurla,25,14,210,40 km/h
+King's Circle,Sion,50,8,170,50 km/h
+Cuffe Parade,Churchgate,18,12,150,50 km/h
+Dadar,Matunga,40,20,180,50 km/h
+Dadar,Prabhadevi,20,7,200,40 km/h
+Colaba,Cuffe Parade,8,14,190,50 km/h
+Chembur,Sion,8,6,230,50 km/h
+Lower Parel,Worli,22,6,210,40 km/h
+Ulhasnagar,Ambernath,25,12,230,60 km/h
+Marine Lines,Charni Road,6,6,150,50 km/h
+Ulhasnagar,Ambernath,40,4,150,40 km/h
+Parel,Lower Parel,6,18,170,60 km/h
+Vashi,Mankhurd,25,4,220,40 km/h
+Diva,Dombivli,20,4,210,60 km/h
+Matunga,King's Circle,22,3,190,50 km/h
+Nerul,Sanpada,35,8,220,60 km/h
+Sion,Kurla,35,18,200,40 km/h
+Lower Parel,Worli,12,8,160,60 km/h
+Thane,Kopri,5,5,150,40 km/h
+Badlapur,Vangani,8,7,230,50 km/h
+Dadar,Prabhadevi,50,4,210,60 km/h
+Lower Parel,Worli,45,18,250,50 km/h
+Elphinstone,Currey Road,8,5,190,60 km/h
+Mankhurd,Govandi,50,5,170,50 km/h
+Diva,Dombivli,50,12,190,40 km/h
+Churchgate,CST,40,14,150,50 km/h
+Colaba,Cuffe Parade,20,2,220,50 km/h
+Mumbra,Kalwa,40,12,210,40 km/h
+Churchgate,CST,35,12,180,50 km/h
+Vasai,Nalasopara,35,14,200,50 km/h
+Thane,Kopri,40,16,210,40 km/h
+Sanpada,Vashi,30,16,160,50 km/h
+Dadar,Matunga,40,14,190,40 km/h
+CST,Marine Lines,12,1,220,50 km/h
+Pedder Road,Worli,30,5,170,60 km/h
+CST,Marine Lines,5,18,170,50 km/h
+Ulhasnagar,Ambernath,45,18,220,50 km/h
+Sanpada,Vashi,35,1,160,40 km/h
+Ghatkopar,Vikhroli,35,20,150,40 km/h
+Vikhroli,Bhandup,18,3,180,40 km/h
+Currey Road,Chinchpokli,30,14,170,50 km/h
+Dadar,Prabhadevi,15,2,170,60 km/h
+Bhandup,Mulund,20,12,250,60 km/h
+Dockyard Road,Mazgaon,22,18,210,60 km/h
+Vashi,Mankhurd,20,6,190,50 km/h
+Kurla,Ghatkopar,8,12,180,40 km/h
+Parel,Lower Parel,10,20,150,50 km/h
+Marine Lines,Charni Road,8,10,180,50 km/h
+Kharghar,Belapur,6,16,210,50 km/h
+Mira Road,Bhayandar,10,16,250,50 km/h
+Dahisar,Mira Road,50,14,190,40 km/h
+Govandi,Chembur,20,1,210,40 km/h
+Dockyard Road,Mazgaon,8,7,190,50 km/h
+Vangani,Shedung,15,18,160,50 km/h
+Marine Drive,Haji Ali,20,10,250,50 km/h
+Shedung,Panvel,25,3,230,50 km/h
+Nalasopara,Virar,12,3,160,50 km/h
+Vasai,Nalasopara,30,9,220,50 km/h
+Marine Lines,Charni Road,30,16,150,40 km/h
+Thane,Kopri,25,14,170,40 km/h
+Kalwa,Diva,22,6,180,50 km/h
+Ambernath,Badlapur,20,14,190,60 km/h
+Govandi,Chembur,30,4,160,60 km/h
+Sion,Dadar,12,9,190,60 km/h
+Vangani,Shedung,25,9,180,60 km/h
+Worli,Lower Parel,8,5,200,60 km/h
+Ulhasnagar,Ambernath,45,7,180,40 km/h
+Mazgaon,Byculla,25,14,160,50 km/h
+Pedder Road,Worli,15,9,230,40 km/h
+Shedung,Panvel,22,7,160,60 km/h
+Lower Parel,Dadar,40,16,190,60 km/h
+Sion,Dadar,25,16,250,50 km/h
+Prabhadevi,Elphinstone,5,5,150,40 km/h
+Dadar,Matunga,35,9,160,60 km/h
+Chinchpokli,Sandhurst Road,10,20,160,50 km/h
+Ulhasnagar,Ambernath,40,10,250,50 km/h
+Kalyan,Ulhasnagar,22,7,170,50 km/h
+Churchgate,CST,5,9,160,40 km/h
+Kalwa,Diva,20,5,210,60 km/h
+Dombivli,Kalyan,25,16,220,40 km/h
+Marine Lines,Charni Road,8,4,220,50 km/h
+Worli,Lower Parel,6,2,200,50 km/h
+Diva,Dombivli,50,20,220,60 km/h
+Bhayandar,Vasai,35,7,200,60 km/h
+Dockyard Road,Mazgaon,12,9,200,40 km/h
+Sion,Dadar,30,1,230,40 km/h
+Ulhasnagar,Ambernath,12,2,200,40 km/h
+Colaba,Cuffe Parade,15,12,250,50 km/h
+Cuffe Parade,Churchgate,15,12,200,60 km/h
+Sion,Kurla,40,12,200,50 km/h
+Dockyard Road,Mazgaon,5,4,200,60 km/h
+Vasai,Nalasopara,45,12,170,50 km/h
+Dadar,Matunga,20,1,160,40 km/h
+Charni Road,Grant Road,8,10,250,40 km/h
+Haji Ali,Pedder Road,45,5,200,40 km/h
+Sanpada,Vashi,5,1,160,40 km/h
+Nerul,Sanpada,30,10,190,60 km/h
+Dadar,Matunga,40,4,180,50 km/h
+Nerul,Sanpada,15,8,210,50 km/h
+Panvel,Kharghar,10,9,170,60 km/h
+Bhayandar,Vasai,6,9,170,40 km/h
+Sion,Kurla,10,18,190,50 km/h
+Nalasopara,Virar,8,5,150,50 km/h
+Ambernath,Badlapur,50,4,230,50 km/h
+Thane,Kopri,22,3,210,40 km/h
+Dombivli,Kalyan,6,6,220,50 km/h
+Nerul,Sanpada,25,4,150,40 km/h
+Kopri,Mumbra,10,6,220,50 km/h
+Nerul,Sanpada,5,9,210,60 km/h
+Vashi,Mankhurd,25,3,200,40 km/h
+Vikhroli,Bhandup,20,5,230,60 km/h
+Lower Parel,Dadar,45,2,210,40 km/h
+Ulhasnagar,Ambernath,50,16,200,50 km/h
+Mumbra,Kalwa,30,10,180,60 km/h
+Bhayandar,Vasai,6,6,180,50 km/h
+Govandi,Chembur,22,10,250,50 km/h
+Churchgate,CST,8,16,250,40 km/h
+King's Circle,Sion,35,16,190,60 km/h
+Nalasopara,Virar,40,10,210,40 km/h
+Prabhadevi,Elphinstone,10,16,220,50 km/h
+Elphinstone,Currey Road,22,10,160,40 km/h
+Bhandup,Mulund,40,3,250,40 km/h
+King's Circle,Sion,8,10,220,60 km/h
+Pedder Road,Worli,22,5,210,50 km/h
+Cuffe Parade,Churchgate,10,3,160,60 km/h
+Dadar,Prabhadevi,10,10,230,50 km/h
+Mulund,Thane,45,20,150,50 km/h
+Dahisar,Mira Road,30,20,180,40 km/h
+Byculla,Parel,10,5,180,50 km/h
+Dombivli,Kalyan,10,20,230,50 km/h
+Matunga,King's Circle,18,1,230,40 km/h
+Mulund,Thane,10,5,220,50 km/h
+Lower Parel,Dadar,12,2,210,50 km/h
+Vangani,Shedung,40,2,210,40 km/h
+Chembur,Sion,22,12,190,40 km/h
+Churchgate,CST,12,16,150,60 km/h
+Belapur,Nerul,40,6,220,60 km/h
+Kalyan,Ulhasnagar,12,12,250,40 km/h
+CST,Marine Lines,20,7,230,40 km/h
+Bhayandar,Vasai,25,20,180,60 km/h
+Matunga,King's Circle,45,6,220,60 km/h
+Worli,Lower Parel,25,12,170,40 km/h
+Bhandup,Mulund,8,8,230,40 km/h
+Shedung,Panvel,25,2,190,60 km/h
+Parel,Lower Parel,5,12,150,50 km/h
+Dockyard Road,Mazgaon,18,7,160,60 km/h
+Chinchpokli,Sandhurst Road,30,2,230,40 km/h
+Dadar,Matunga,40,7,150,40 km/h
+Kurla,Ghatkopar,40,14,250,40 km/h
+Lower Parel,Dadar,45,7,230,40 km/h
+Shedung,Panvel,40,18,150,60 km/h
+Colaba,Cuffe Parade,35,7,210,50 km/h
+Dadar,Prabhadevi,35,12,150,60 km/h
+Lower Parel,Worli,8,1,250,50 km/h
+Prabhadevi,Elphinstone,15,10,150,50 km/h
+Belapur,Nerul,45,18,160,40 km/h
+Ambernath,Badlapur,25,7,210,50 km/h
+Belapur,Nerul,10,4,180,60 km/h
+Kharghar,Belapur,18,16,250,50 km/h
+Lower Parel,Worli,35,14,230,40 km/h
+Sandhurst Road,Dockyard Road,6,9,230,60 km/h
+Thane,Kopri,5,9,160,40 km/h
+Charni Road,Grant Road,50,6,190,60 km/h
+Ambernath,Badlapur,6,10,200,60 km/h
+King's Circle,Sion,5,10,160,50 km/h
+Haji Ali,Pedder Road,50,20,250,50 km/h
+Diva,Dombivli,30,7,190,50 km/h
+Grant Road,Marine Drive,6,2,150,40 km/h
+Lower Parel,Worli,35,7,210,40 km/h
+Mumbra,Kalwa,18,18,160,40 km/h
+Vangani,Shedung,20,3,170,50 km/h
+Marine Drive,Haji Ali,5,4,170,50 km/h
+Govandi,Chembur,40,14,150,50 km/h
+Bhandup,Mulund,15,3,230,40 km/h
+Cuffe Parade,Churchgate,10,3,200,40 km/h
+Lower Parel,Dadar,20,16,200,50 km/h
+Ghatkopar,Vikhroli,20,18,190,50 km/h
+Sion,Kurla,22,2,250,40 km/h
+Nerul,Sanpada,15,4,160,50 km/h
+Thane,Kopri,15,10,160,50 km/h
+Kurla,Ghatkopar,8,16,220,40 km/h
+Mankhurd,Govandi,8,3,230,40 km/h
+Colaba,Cuffe Parade,45,4,250,50 km/h
+Mumbra,Kalwa,50,2,200,60 km/h
+Dadar,Prabhadevi,22,1,160,60 km/h
+Haji Ali,Pedder Road,40,10,160,40 km/h
+Bhandup,Mulund,25,1,190,60 km/h
+Marine Drive,Haji Ali,12,1,180,60 km/h
+Dockyard Road,Mazgaon,18,6,220,40 km/h
+Kharghar,Belapur,12,16,210,50 km/h
+Mumbra,Kalwa,5,10,220,40 km/h
+Thane,Kopri,40,3,200,50 km/h
+Dadar,Matunga,15,6,190,60 km/h
+Sandhurst Road,Dockyard Road,12,16,250,50 km/h
+Mazgaon,Byculla,40,9,230,40 km/h
+Lower Parel,Worli,45,9,210,40 km/h
+Byculla,Parel,5,12,200,40 km/h
+Kopri,Mumbra,5,12,200,50 km/h
+Kurla,Ghatkopar,35,20,220,40 km/h
+Pedder Road,Worli,8,3,250,40 km/h
+Prabhadevi,Elphinstone,50,7,180,60 km/h
+Prabhadevi,Elphinstone,22,4,230,60 km/h
+Haji Ali,Pedder Road,35,10,190,40 km/h
+Kalwa,Diva,6,1,170,40 km/h
+Mira Road,Bhayandar,12,9,170,50 km/h
+Dombivli,Kalyan,15,9,210,50 km/h
+Bhayandar,Vasai,12,1,250,40 km/h
+Ambernath,Badlapur,20,8,190,60 km/h
+Mankhurd,Govandi,10,12,250,60 km/h
+Sanpada,Vashi,35,14,250,40 km/h
+Ulhasnagar,Ambernath,6,16,230,50 km/h
+Cuffe Parade,Churchgate,20,8,250,40 km/h
+Bhandup,Mulund,45,9,170,60 km/h
+Mumbra,Kalwa,5,4,220,50 km/h
+Mumbra,Kalwa,40,10,150,50 km/h
+Vangani,Shedung,15,6,210,60 km/h
+Dombivli,Kalyan,22,12,220,40 km/h
+Marine Lines,Charni Road,8,10,160,60 km/h
+Thane,Kopri,25,2,190,50 km/h
+Dombivli,Kalyan,40,8,150,60 km/h
+Dadar,Matunga,45,20,160,40 km/h
+Colaba,Cuffe Parade,22,5,200,50 km/h
+Lower Parel,Worli,5,6,200,50 km/h
+Mira Road,Bhayandar,30,16,170,60 km/h
+Marine Lines,Charni Road,12,1,150,50 km/h
+Matunga,King's Circle,8,7,230,50 km/h
+CST,Marine Lines,25,16,220,50 km/h
+Belapur,Nerul,50,2,210,40 km/h
+Sanpada,Vashi,5,20,190,60 km/h
+Elphinstone,Currey Road,25,9,220,50 km/h
+Nerul,Sanpada,6,2,160,50 km/h
+Charni Road,Grant Road,18,12,200,60 km/h
+Vashi,Mankhurd,15,10,200,60 km/h
+Govandi,Chembur,6,18,200,50 km/h
+Dadar,Prabhadevi,6,14,160,40 km/h
+King's Circle,Sion,35,7,210,40 km/h
+Mulund,Thane,50,3,150,60 km/h
+Pedder Road,Worli,18,7,160,60 km/h
+Ambernath,Badlapur,10,4,220,40 km/h
+Mumbra,Kalwa,5,8,220,40 km/h
+Govandi,Chembur,35,18,220,50 km/h
+Mankhurd,Govandi,15,8,220,40 km/h
+Dombivli,Kalyan,5,6,180,50 km/h
+Dadar,Prabhadevi,45,10,160,50 km/h
+Lower Parel,Worli,20,7,200,40 km/h
+Bhayandar,Vasai,50,12,230,50 km/h
+Diva,Dombivli,50,1,170,50 km/h
+Mira Road,Bhayandar,25,7,160,60 km/h
+Churchgate,CST,40,9,220,60 km/h
+Kurla,Ghatkopar,18,6,210,60 km/h
+Kopri,Mumbra,25,20,200,50 km/h
+Prabhadevi,Elphinstone,6,16,230,40 km/h
+Thane,Kopri,10,8,210,50 km/h
+Marine Lines,Charni Road,12,2,220,50 km/h
+Grant Road,Marine Drive,50,16,230,60 km/h
+Bhandup,Mulund,18,4,220,60 km/h
+Cuffe Parade,Churchgate,8,8,160,40 km/h
+Matunga,King's Circle,22,18,150,60 km/h
+Thane,Kopri,8,10,220,60 km/h
+Charni Road,Grant Road,45,7,200,50 km/h
+Chinchpokli,Sandhurst Road,15,9,150,50 km/h
+Sion,Dadar,6,1,220,60 km/h
+Kopri,Mumbra,45,9,210,50 km/h
+Bhandup,Mulund,8,5,180,60 km/h
+Chinchpokli,Sandhurst Road,45,2,170,60 km/h
+Mira Road,Bhayandar,8,1,220,40 km/h
+Dadar,Matunga,30,18,250,60 km/h
+Lower Parel,Dadar,8,4,220,60 km/h
+Bhandup,Mulund,15,12,170,50 km/h
+Badlapur,Vangani,20,14,180,50 km/h
+Diva,Dombivli,22,2,200,40 km/h
+Parel,Lower Parel,18,8,160,60 km/h
+Belapur,Nerul,35,12,220,60 km/h
+Dockyard Road,Mazgaon,50,7,220,60 km/h
+CST,Marine Lines,15,7,170,50 km/h
+Dockyard Road,Mazgaon,5,16,190,40 km/h
+Prabhadevi,Elphinstone,12,14,170,40 km/h
+Parel,Lower Parel,18,7,150,50 km/h
+Vangani,Shedung,35,4,210,40 km/h
+Dockyard Road,Mazgaon,35,16,150,50 km/h
+Sion,Dadar,10,10,200,40 km/h
+Sandhurst Road,Dockyard Road,6,5,250,50 km/h
+Badlapur,Vangani,8,2,160,50 km/h
+Prabhadevi,Elphinstone,30,3,200,60 km/h
+Ulhasnagar,Ambernath,12,5,210,60 km/h
+Dockyard Road,Mazgaon,30,3,200,40 km/h

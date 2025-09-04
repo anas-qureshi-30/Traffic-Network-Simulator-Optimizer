@@ -1,0 +1,1001 @@
+source_node,destination_node,travel_time,distance,capacity,speed_limit
+Parliament House,Janpath,18,4,170,60 km/h
+Mohan Estate,Badarpur,18,10,160,50 km/h
+Lajpat Nagar,Nehru Place,30,2,160,50 km/h
+Tilak Nagar,Janakpuri,12,7,160,40 km/h
+Tilak Nagar,Janakpuri,10,6,180,40 km/h
+Barakhamba,Rajiv Chowk,5,10,260,40 km/h
+Connaught Place,India Gate,12,5,190,50 km/h
+Janakpuri,Uttam Nagar,10,8,180,50 km/h
+Kirti Nagar,Rajouri Garden,5,10,220,40 km/h
+Mandi House,Barakhamba,5,2,180,40 km/h
+Karol Bagh,Rajendra Place,20,5,170,60 km/h
+Jasola,Sarita Vihar,12,7,150,40 km/h
+India Gate,Rashtrapati Bhavan,12,8,150,50 km/h
+Central Secretariat,Lajpat Nagar,12,1,240,40 km/h
+Uttam Nagar,Dwarka,35,7,160,60 km/h
+Rajiv Chowk,Central Secretariat,25,4,220,60 km/h
+Kashmere Gate,Chandni Chowk,20,8,200,40 km/h
+Rashtrapati Bhavan,Parliament House,15,5,180,40 km/h
+Rajouri Garden,Tagore Garden,5,10,180,50 km/h
+Tagore Garden,Subhash Nagar,10,10,190,40 km/h
+Ramesh Nagar,Kirti Nagar,12,6,150,50 km/h
+Dwarka Mor,Najafgarh,12,1,190,50 km/h
+Inderlok,Kashmere Gate,7,1,160,60 km/h
+Jasola,Sarita Vihar,12,12,170,50 km/h
+Mundka,Punjabi Bagh,35,5,220,60 km/h
+Kalkaji Mandir,Govindpuri,30,7,180,40 km/h
+Rashtrapati Bhavan,Parliament House,20,7,280,40 km/h
+Ashok Park,Inderlok,25,1,280,50 km/h
+Barakhamba,Rajiv Chowk,15,12,150,50 km/h
+Subhash Nagar,Tilak Nagar,5,2,280,40 km/h
+Lajpat Nagar,Nehru Place,5,12,220,50 km/h
+Jama Masjid,Delhi Gate,25,12,200,40 km/h
+Rajendra Place,Patel Nagar,7,5,240,40 km/h
+Barakhamba,Rajiv Chowk,12,10,160,40 km/h
+India Gate,Rashtrapati Bhavan,10,6,220,50 km/h
+Faridabad,Ballabhgarh,18,7,280,50 km/h
+India Gate,Rashtrapati Bhavan,5,4,170,40 km/h
+Rajiv Chowk,Central Secretariat,20,12,220,50 km/h
+Sarita Vihar,Mohan Estate,12,1,180,50 km/h
+Punjabi Bagh,Ashok Park,25,8,160,40 km/h
+Faridabad,Ballabhgarh,25,7,200,60 km/h
+India Gate,Rashtrapati Bhavan,35,8,200,40 km/h
+Rajendra Place,Patel Nagar,30,4,260,40 km/h
+Connaught Place,India Gate,20,10,180,50 km/h
+Nehru Place,Kalkaji Mandir,18,5,220,50 km/h
+Kirti Nagar,Rajouri Garden,10,8,190,60 km/h
+Karol Bagh,Rajendra Place,12,8,220,50 km/h
+Shadipur,Moti Nagar,20,8,280,50 km/h
+Delhi Gate,Mandi House,20,7,260,40 km/h
+Inderlok,Kashmere Gate,18,5,220,40 km/h
+Moti Nagar,Ramesh Nagar,25,10,220,40 km/h
+Parliament House,Janpath,20,5,170,40 km/h
+Patel Nagar,Shadipur,12,4,280,50 km/h
+Badarpur,Faridabad,5,2,170,40 km/h
+Parliament House,Janpath,20,4,200,50 km/h
+Rashtrapati Bhavan,Parliament House,7,7,160,40 km/h
+Inderlok,Kashmere Gate,20,3,190,60 km/h
+Badarpur,Faridabad,10,6,190,50 km/h
+Punjabi Bagh,Ashok Park,7,6,170,40 km/h
+Bahadurgarh,Mundka,10,5,160,60 km/h
+Mandi House,Barakhamba,25,1,260,60 km/h
+Rashtrapati Bhavan,Parliament House,30,12,160,60 km/h
+Connaught Place,India Gate,20,10,220,40 km/h
+Shadipur,Moti Nagar,20,2,240,50 km/h
+Uttam Nagar,Dwarka,35,2,160,40 km/h
+Sarita Vihar,Mohan Estate,30,7,220,40 km/h
+Nehru Place,Kalkaji Mandir,20,6,180,40 km/h
+Jama Masjid,Delhi Gate,18,6,280,60 km/h
+Mohan Estate,Badarpur,30,6,240,60 km/h
+Red Fort,Jama Masjid,30,1,180,40 km/h
+Rajiv Chowk,Central Secretariat,12,1,190,50 km/h
+Mandi House,Barakhamba,35,10,180,40 km/h
+Mohan Estate,Badarpur,35,10,200,40 km/h
+Badarpur,Faridabad,25,4,280,60 km/h
+Dwarka Mor,Najafgarh,18,2,170,50 km/h
+Connaught Place,India Gate,18,7,180,40 km/h
+Delhi Gate,Mandi House,20,10,260,50 km/h
+Kirti Nagar,Rajouri Garden,12,3,240,50 km/h
+India Gate,Rashtrapati Bhavan,20,12,280,40 km/h
+Rajendra Place,Patel Nagar,12,1,280,40 km/h
+India Gate,Rashtrapati Bhavan,12,10,200,40 km/h
+Rajiv Chowk,Central Secretariat,15,5,220,60 km/h
+Tilak Nagar,Janakpuri,35,1,190,50 km/h
+Rashtrapati Bhavan,Parliament House,18,4,220,60 km/h
+Rajendra Place,Patel Nagar,7,8,170,60 km/h
+Ramesh Nagar,Kirti Nagar,20,6,280,40 km/h
+Sarita Vihar,Mohan Estate,18,6,170,40 km/h
+Subhash Nagar,Tilak Nagar,30,2,200,50 km/h
+Rajouri Garden,Tagore Garden,18,3,260,40 km/h
+Karol Bagh,Rajendra Place,7,2,190,60 km/h
+Kirti Nagar,Rajouri Garden,5,8,150,40 km/h
+Jasola,Sarita Vihar,12,5,160,50 km/h
+Mundka,Punjabi Bagh,5,12,260,60 km/h
+Govindpuri,Okhla,12,6,150,60 km/h
+Rajiv Chowk,Central Secretariat,10,10,200,40 km/h
+Inderlok,Kashmere Gate,7,1,220,50 km/h
+Rajouri Garden,Tagore Garden,25,8,220,50 km/h
+Chandni Chowk,Red Fort,5,1,260,60 km/h
+Subhash Nagar,Tilak Nagar,5,2,200,60 km/h
+Nehru Place,Kalkaji Mandir,5,12,240,50 km/h
+India Gate,Rashtrapati Bhavan,15,6,150,40 km/h
+Tilak Nagar,Janakpuri,5,2,200,40 km/h
+Uttam Nagar,Dwarka,15,10,280,40 km/h
+Rajiv Chowk,Central Secretariat,15,4,190,40 km/h
+Mundka,Punjabi Bagh,15,7,160,50 km/h
+Shadipur,Moti Nagar,18,4,220,50 km/h
+Rajendra Place,Patel Nagar,25,6,170,40 km/h
+Moti Nagar,Ramesh Nagar,30,2,170,40 km/h
+Karol Bagh,Rajendra Place,35,12,240,60 km/h
+Moti Nagar,Ramesh Nagar,30,7,150,50 km/h
+Tilak Nagar,Janakpuri,18,10,220,60 km/h
+Uttam Nagar,Dwarka,35,7,180,50 km/h
+Karol Bagh,Rajendra Place,10,3,190,50 km/h
+Shadipur,Moti Nagar,7,4,260,50 km/h
+Red Fort,Jama Masjid,7,7,280,50 km/h
+Ramesh Nagar,Kirti Nagar,12,7,200,50 km/h
+Rajouri Garden,Tagore Garden,15,5,180,50 km/h
+Bahadurgarh,Mundka,35,8,150,60 km/h
+Lajpat Nagar,Nehru Place,5,10,220,40 km/h
+Parliament House,Janpath,35,4,220,40 km/h
+Parliament House,Janpath,30,3,200,40 km/h
+Sarita Vihar,Mohan Estate,18,2,150,50 km/h
+Connaught Place,India Gate,10,4,190,50 km/h
+Najafgarh,Bahadurgarh,7,5,240,60 km/h
+Ramesh Nagar,Kirti Nagar,18,12,160,40 km/h
+Kalkaji Mandir,Govindpuri,12,7,220,50 km/h
+Faridabad,Ballabhgarh,20,5,150,40 km/h
+Mundka,Punjabi Bagh,35,6,260,40 km/h
+Sarita Vihar,Mohan Estate,15,3,190,50 km/h
+Janakpuri,Uttam Nagar,18,8,170,60 km/h
+Parliament House,Janpath,15,10,170,50 km/h
+Tilak Nagar,Janakpuri,20,7,200,60 km/h
+Connaught Place,India Gate,30,12,200,40 km/h
+Inderlok,Kashmere Gate,15,5,160,60 km/h
+Rajendra Place,Patel Nagar,12,12,240,60 km/h
+Connaught Place,India Gate,5,12,240,40 km/h
+Kalkaji Mandir,Govindpuri,30,10,190,50 km/h
+Inderlok,Kashmere Gate,35,2,200,50 km/h
+Rajiv Chowk,Central Secretariat,35,1,240,40 km/h
+Mohan Estate,Badarpur,25,4,240,60 km/h
+Okhla,Jasola,20,2,220,40 km/h
+Kashmere Gate,Chandni Chowk,10,12,280,50 km/h
+Jasola,Sarita Vihar,5,5,240,60 km/h
+Ashok Park,Inderlok,18,1,260,40 km/h
+Janakpuri,Uttam Nagar,35,3,260,60 km/h
+Tagore Garden,Subhash Nagar,15,12,190,50 km/h
+Subhash Nagar,Tilak Nagar,12,4,220,60 km/h
+Ashok Park,Inderlok,15,3,180,50 km/h
+Rajiv Chowk,Central Secretariat,20,6,190,40 km/h
+Kalkaji Mandir,Govindpuri,20,1,200,60 km/h
+Dwarka,Dwarka Mor,10,4,280,50 km/h
+Karol Bagh,Rajendra Place,30,6,160,50 km/h
+Central Secretariat,Lajpat Nagar,35,12,240,50 km/h
+Ashok Park,Inderlok,5,10,180,60 km/h
+Patel Nagar,Shadipur,10,6,190,50 km/h
+Kalkaji Mandir,Govindpuri,15,12,190,50 km/h
+Ashok Park,Inderlok,12,10,280,60 km/h
+Badarpur,Faridabad,35,4,190,40 km/h
+Okhla,Jasola,30,5,240,40 km/h
+Connaught Place,India Gate,18,2,280,40 km/h
+Mundka,Punjabi Bagh,35,6,260,50 km/h
+Patel Nagar,Shadipur,5,3,220,60 km/h
+Rajendra Place,Patel Nagar,10,1,160,40 km/h
+Central Secretariat,Lajpat Nagar,5,7,260,60 km/h
+Jasola,Sarita Vihar,5,1,180,50 km/h
+Sarita Vihar,Mohan Estate,10,2,280,60 km/h
+Nehru Place,Kalkaji Mandir,15,7,280,40 km/h
+Karol Bagh,Rajendra Place,35,4,220,50 km/h
+Dwarka,Dwarka Mor,18,12,260,40 km/h
+Nehru Place,Kalkaji Mandir,25,12,240,60 km/h
+Tagore Garden,Subhash Nagar,30,10,160,40 km/h
+Rajendra Place,Patel Nagar,15,10,220,60 km/h
+Moti Nagar,Ramesh Nagar,7,6,170,50 km/h
+Jasola,Sarita Vihar,15,2,220,60 km/h
+Rajiv Chowk,Central Secretariat,25,6,180,50 km/h
+Faridabad,Ballabhgarh,5,3,220,40 km/h
+Shadipur,Moti Nagar,18,10,160,50 km/h
+Connaught Place,India Gate,30,4,240,40 km/h
+Rajouri Garden,Tagore Garden,18,8,150,50 km/h
+Tilak Nagar,Janakpuri,25,12,260,50 km/h
+Tilak Nagar,Janakpuri,5,3,160,40 km/h
+Moti Nagar,Ramesh Nagar,7,1,160,50 km/h
+Mandi House,Barakhamba,18,12,150,60 km/h
+Dwarka,Dwarka Mor,30,10,180,40 km/h
+Tagore Garden,Subhash Nagar,20,7,260,50 km/h
+Nehru Place,Kalkaji Mandir,5,12,280,50 km/h
+Tagore Garden,Subhash Nagar,20,7,260,50 km/h
+Rajouri Garden,Tagore Garden,18,4,220,60 km/h
+Ashok Park,Inderlok,18,5,170,60 km/h
+Rajouri Garden,Tagore Garden,25,7,180,40 km/h
+Jasola,Sarita Vihar,12,1,150,50 km/h
+Tagore Garden,Subhash Nagar,5,6,280,50 km/h
+Ramesh Nagar,Kirti Nagar,12,4,170,60 km/h
+Jasola,Sarita Vihar,10,12,170,50 km/h
+Central Secretariat,Lajpat Nagar,15,8,280,40 km/h
+Rajiv Chowk,Central Secretariat,25,2,260,60 km/h
+Dwarka Mor,Najafgarh,7,1,260,40 km/h
+Rajouri Garden,Tagore Garden,30,7,170,40 km/h
+Ramesh Nagar,Kirti Nagar,20,7,200,40 km/h
+Najafgarh,Bahadurgarh,10,2,150,60 km/h
+Parliament House,Janpath,12,1,260,40 km/h
+Connaught Place,India Gate,15,1,280,40 km/h
+Lajpat Nagar,Nehru Place,18,3,280,40 km/h
+Central Secretariat,Lajpat Nagar,15,2,190,40 km/h
+Janakpuri,Uttam Nagar,10,2,160,60 km/h
+Bahadurgarh,Mundka,20,3,170,60 km/h
+Badarpur,Faridabad,18,12,240,60 km/h
+Kirti Nagar,Rajouri Garden,30,5,260,60 km/h
+Moti Nagar,Ramesh Nagar,18,12,220,40 km/h
+Okhla,Jasola,5,6,260,60 km/h
+Nehru Place,Kalkaji Mandir,12,2,190,50 km/h
+Ramesh Nagar,Kirti Nagar,30,1,200,50 km/h
+Najafgarh,Bahadurgarh,30,7,280,60 km/h
+Chandni Chowk,Red Fort,18,10,240,40 km/h
+Govindpuri,Okhla,20,7,150,50 km/h
+Dwarka Mor,Najafgarh,30,1,180,50 km/h
+Dwarka Mor,Najafgarh,15,8,200,50 km/h
+Mandi House,Barakhamba,18,6,150,40 km/h
+Rajiv Chowk,Central Secretariat,5,3,160,60 km/h
+Najafgarh,Bahadurgarh,12,3,200,60 km/h
+Inderlok,Kashmere Gate,10,6,170,60 km/h
+Kirti Nagar,Rajouri Garden,25,1,260,40 km/h
+Mundka,Punjabi Bagh,30,10,160,40 km/h
+Red Fort,Jama Masjid,5,1,150,60 km/h
+Mohan Estate,Badarpur,30,7,180,40 km/h
+Okhla,Jasola,18,5,200,50 km/h
+Faridabad,Ballabhgarh,7,12,260,60 km/h
+Sarita Vihar,Mohan Estate,15,5,180,40 km/h
+Central Secretariat,Lajpat Nagar,15,4,150,50 km/h
+Govindpuri,Okhla,5,2,200,60 km/h
+Bahadurgarh,Mundka,10,1,190,50 km/h
+Ramesh Nagar,Kirti Nagar,5,1,200,40 km/h
+Sarita Vihar,Mohan Estate,7,12,260,40 km/h
+Mohan Estate,Badarpur,20,2,160,60 km/h
+Dwarka Mor,Najafgarh,10,4,180,60 km/h
+Connaught Place,India Gate,18,3,220,40 km/h
+Jasola,Sarita Vihar,25,5,150,60 km/h
+Janakpuri,Uttam Nagar,15,3,170,60 km/h
+Okhla,Jasola,12,6,170,60 km/h
+Najafgarh,Bahadurgarh,30,10,170,40 km/h
+Delhi Gate,Mandi House,35,7,170,50 km/h
+Central Secretariat,Lajpat Nagar,15,7,240,60 km/h
+Rajendra Place,Patel Nagar,35,1,190,40 km/h
+Nehru Place,Kalkaji Mandir,10,3,150,50 km/h
+Mohan Estate,Badarpur,30,6,200,60 km/h
+Rajendra Place,Patel Nagar,20,10,180,60 km/h
+Barakhamba,Rajiv Chowk,7,1,280,50 km/h
+Mandi House,Barakhamba,15,12,190,40 km/h
+Kirti Nagar,Rajouri Garden,7,8,190,50 km/h
+Rashtrapati Bhavan,Parliament House,5,7,180,40 km/h
+Chandni Chowk,Red Fort,15,12,200,40 km/h
+Jasola,Sarita Vihar,25,2,220,40 km/h
+Mandi House,Barakhamba,25,10,240,50 km/h
+Tilak Nagar,Janakpuri,10,8,150,50 km/h
+Rajouri Garden,Tagore Garden,12,2,260,60 km/h
+Patel Nagar,Shadipur,18,7,280,60 km/h
+Barakhamba,Rajiv Chowk,35,8,260,50 km/h
+Connaught Place,India Gate,12,12,220,60 km/h
+Mandi House,Barakhamba,35,2,220,60 km/h
+Kirti Nagar,Rajouri Garden,20,12,180,40 km/h
+Kirti Nagar,Rajouri Garden,25,7,180,50 km/h
+Barakhamba,Rajiv Chowk,12,5,200,40 km/h
+Rajendra Place,Patel Nagar,35,4,160,60 km/h
+Karol Bagh,Rajendra Place,18,8,150,40 km/h
+Connaught Place,India Gate,25,5,190,50 km/h
+Kalkaji Mandir,Govindpuri,5,4,180,50 km/h
+Uttam Nagar,Dwarka,35,2,280,60 km/h
+Okhla,Jasola,15,1,280,50 km/h
+Chandni Chowk,Red Fort,35,5,150,40 km/h
+Inderlok,Kashmere Gate,5,4,260,50 km/h
+Tagore Garden,Subhash Nagar,5,4,150,50 km/h
+Mohan Estate,Badarpur,5,3,260,60 km/h
+Parliament House,Janpath,35,8,280,40 km/h
+Uttam Nagar,Dwarka,35,5,240,60 km/h
+Chandni Chowk,Red Fort,30,3,150,50 km/h
+Bahadurgarh,Mundka,30,4,280,50 km/h
+Lajpat Nagar,Nehru Place,7,4,200,60 km/h
+Rajendra Place,Patel Nagar,15,8,190,40 km/h
+Rashtrapati Bhavan,Parliament House,7,5,160,50 km/h
+Karol Bagh,Rajendra Place,15,5,260,60 km/h
+Bahadurgarh,Mundka,5,10,280,40 km/h
+Bahadurgarh,Mundka,7,8,180,50 km/h
+Barakhamba,Rajiv Chowk,35,5,220,50 km/h
+Punjabi Bagh,Ashok Park,5,2,160,60 km/h
+Janakpuri,Uttam Nagar,20,2,260,40 km/h
+Rajendra Place,Patel Nagar,5,10,160,50 km/h
+Punjabi Bagh,Ashok Park,10,1,260,60 km/h
+Faridabad,Ballabhgarh,30,2,200,60 km/h
+Rajiv Chowk,Central Secretariat,5,1,220,40 km/h
+Barakhamba,Rajiv Chowk,7,5,160,60 km/h
+Moti Nagar,Ramesh Nagar,15,1,220,60 km/h
+Punjabi Bagh,Ashok Park,12,7,280,60 km/h
+Janakpuri,Uttam Nagar,12,7,220,60 km/h
+Janakpuri,Uttam Nagar,15,10,170,60 km/h
+Janakpuri,Uttam Nagar,15,6,150,60 km/h
+Jama Masjid,Delhi Gate,18,1,240,60 km/h
+Okhla,Jasola,30,7,190,40 km/h
+Jasola,Sarita Vihar,30,6,220,50 km/h
+Jama Masjid,Delhi Gate,35,8,170,50 km/h
+Rashtrapati Bhavan,Parliament House,35,2,190,60 km/h
+Central Secretariat,Lajpat Nagar,15,12,280,60 km/h
+Rajendra Place,Patel Nagar,7,12,190,60 km/h
+Central Secretariat,Lajpat Nagar,18,4,190,40 km/h
+Mohan Estate,Badarpur,25,10,160,60 km/h
+Ashok Park,Inderlok,18,4,150,40 km/h
+Bahadurgarh,Mundka,12,2,260,40 km/h
+Okhla,Jasola,18,5,240,60 km/h
+Najafgarh,Bahadurgarh,5,2,200,50 km/h
+Shadipur,Moti Nagar,5,2,190,60 km/h
+Jama Masjid,Delhi Gate,35,10,220,40 km/h
+Rajiv Chowk,Central Secretariat,18,1,180,60 km/h
+Mundka,Punjabi Bagh,35,12,190,50 km/h
+Barakhamba,Rajiv Chowk,25,7,220,40 km/h
+Ashok Park,Inderlok,25,5,190,40 km/h
+Okhla,Jasola,5,3,160,50 km/h
+Nehru Place,Kalkaji Mandir,30,6,200,60 km/h
+Ramesh Nagar,Kirti Nagar,15,7,170,50 km/h
+Kalkaji Mandir,Govindpuri,12,2,260,40 km/h
+Najafgarh,Bahadurgarh,35,3,260,50 km/h
+Central Secretariat,Lajpat Nagar,18,7,180,50 km/h
+Punjabi Bagh,Ashok Park,15,3,160,50 km/h
+Sarita Vihar,Mohan Estate,20,4,240,60 km/h
+Shadipur,Moti Nagar,25,6,180,40 km/h
+Nehru Place,Kalkaji Mandir,18,8,180,60 km/h
+Red Fort,Jama Masjid,7,6,150,60 km/h
+Ramesh Nagar,Kirti Nagar,25,8,220,60 km/h
+Patel Nagar,Shadipur,12,10,160,40 km/h
+Karol Bagh,Rajendra Place,7,8,280,40 km/h
+Sarita Vihar,Mohan Estate,5,3,280,60 km/h
+Tilak Nagar,Janakpuri,35,8,180,60 km/h
+Karol Bagh,Rajendra Place,7,5,240,60 km/h
+Connaught Place,India Gate,15,10,180,40 km/h
+Rajendra Place,Patel Nagar,25,2,170,60 km/h
+Punjabi Bagh,Ashok Park,15,8,220,50 km/h
+Lajpat Nagar,Nehru Place,10,6,160,50 km/h
+Ramesh Nagar,Kirti Nagar,25,6,240,60 km/h
+Delhi Gate,Mandi House,15,2,260,50 km/h
+Mundka,Punjabi Bagh,25,12,150,40 km/h
+Subhash Nagar,Tilak Nagar,7,10,260,60 km/h
+Okhla,Jasola,30,4,180,40 km/h
+Najafgarh,Bahadurgarh,20,10,240,50 km/h
+Janakpuri,Uttam Nagar,7,4,260,60 km/h
+Kirti Nagar,Rajouri Garden,20,10,170,60 km/h
+Delhi Gate,Mandi House,12,10,280,40 km/h
+Badarpur,Faridabad,18,6,260,50 km/h
+Jama Masjid,Delhi Gate,15,10,200,40 km/h
+Okhla,Jasola,18,3,160,40 km/h
+Mundka,Punjabi Bagh,7,10,180,40 km/h
+Barakhamba,Rajiv Chowk,5,4,220,40 km/h
+Ashok Park,Inderlok,20,6,180,50 km/h
+Janakpuri,Uttam Nagar,30,8,200,50 km/h
+Govindpuri,Okhla,30,10,180,60 km/h
+Najafgarh,Bahadurgarh,5,8,180,40 km/h
+Dwarka Mor,Najafgarh,25,2,160,50 km/h
+Lajpat Nagar,Nehru Place,18,8,170,60 km/h
+Rajouri Garden,Tagore Garden,15,6,220,40 km/h
+Chandni Chowk,Red Fort,35,3,200,60 km/h
+Nehru Place,Kalkaji Mandir,12,8,190,60 km/h
+Connaught Place,India Gate,25,10,200,60 km/h
+Kashmere Gate,Chandni Chowk,25,7,150,60 km/h
+Patel Nagar,Shadipur,7,3,190,40 km/h
+Punjabi Bagh,Ashok Park,10,12,220,40 km/h
+Mandi House,Barakhamba,25,6,170,40 km/h
+Shadipur,Moti Nagar,30,6,180,50 km/h
+Rajendra Place,Patel Nagar,7,8,260,60 km/h
+Janpath,Karol Bagh,10,3,260,60 km/h
+Nehru Place,Kalkaji Mandir,5,12,260,40 km/h
+Patel Nagar,Shadipur,15,10,280,60 km/h
+Barakhamba,Rajiv Chowk,5,8,220,60 km/h
+Najafgarh,Bahadurgarh,30,4,170,60 km/h
+Faridabad,Ballabhgarh,18,7,170,50 km/h
+Okhla,Jasola,35,6,220,60 km/h
+Janpath,Karol Bagh,15,8,170,50 km/h
+Red Fort,Jama Masjid,5,4,220,40 km/h
+Rajiv Chowk,Central Secretariat,18,1,180,40 km/h
+Najafgarh,Bahadurgarh,10,2,200,50 km/h
+Uttam Nagar,Dwarka,7,4,150,40 km/h
+Inderlok,Kashmere Gate,12,6,180,60 km/h
+Dwarka,Dwarka Mor,15,1,220,60 km/h
+Chandni Chowk,Red Fort,5,5,190,60 km/h
+Janpath,Karol Bagh,25,2,160,60 km/h
+Barakhamba,Rajiv Chowk,7,12,260,40 km/h
+Parliament House,Janpath,18,1,220,60 km/h
+Faridabad,Ballabhgarh,25,4,280,60 km/h
+Chandni Chowk,Red Fort,12,1,200,50 km/h
+Okhla,Jasola,35,10,260,50 km/h
+Janpath,Karol Bagh,25,6,190,40 km/h
+Dwarka,Dwarka Mor,5,10,180,60 km/h
+Rajiv Chowk,Central Secretariat,5,7,200,40 km/h
+Okhla,Jasola,5,7,190,50 km/h
+Rajiv Chowk,Central Secretariat,7,2,240,40 km/h
+Kirti Nagar,Rajouri Garden,15,1,220,60 km/h
+Ramesh Nagar,Kirti Nagar,12,3,180,40 km/h
+Tilak Nagar,Janakpuri,25,1,160,60 km/h
+Delhi Gate,Mandi House,25,6,150,40 km/h
+Dwarka Mor,Najafgarh,20,5,220,60 km/h
+Subhash Nagar,Tilak Nagar,15,4,240,60 km/h
+Okhla,Jasola,7,7,170,40 km/h
+Rajiv Chowk,Central Secretariat,20,4,170,60 km/h
+Janpath,Karol Bagh,10,8,260,40 km/h
+Dwarka,Dwarka Mor,12,2,180,40 km/h
+Dwarka Mor,Najafgarh,18,6,260,60 km/h
+Inderlok,Kashmere Gate,7,4,180,40 km/h
+Mohan Estate,Badarpur,10,6,190,60 km/h
+Punjabi Bagh,Ashok Park,20,2,170,40 km/h
+Sarita Vihar,Mohan Estate,7,10,170,60 km/h
+Jasola,Sarita Vihar,15,6,200,50 km/h
+Janakpuri,Uttam Nagar,30,7,150,50 km/h
+Mundka,Punjabi Bagh,25,5,180,50 km/h
+Uttam Nagar,Dwarka,10,7,190,50 km/h
+Delhi Gate,Mandi House,10,6,180,50 km/h
+Tagore Garden,Subhash Nagar,5,6,160,40 km/h
+Mohan Estate,Badarpur,25,12,280,40 km/h
+Govindpuri,Okhla,10,6,150,50 km/h
+Bahadurgarh,Mundka,5,12,170,40 km/h
+Dwarka,Dwarka Mor,25,8,240,50 km/h
+Moti Nagar,Ramesh Nagar,10,4,160,60 km/h
+Inderlok,Kashmere Gate,10,4,200,40 km/h
+Najafgarh,Bahadurgarh,35,8,280,60 km/h
+Kashmere Gate,Chandni Chowk,30,6,240,60 km/h
+Kalkaji Mandir,Govindpuri,25,8,220,50 km/h
+Connaught Place,India Gate,35,8,280,60 km/h
+Mohan Estate,Badarpur,7,1,260,60 km/h
+Chandni Chowk,Red Fort,25,3,240,50 km/h
+Moti Nagar,Ramesh Nagar,7,7,200,50 km/h
+Rajiv Chowk,Central Secretariat,18,1,240,60 km/h
+Govindpuri,Okhla,7,4,150,60 km/h
+Dwarka Mor,Najafgarh,18,1,190,60 km/h
+Connaught Place,India Gate,35,7,260,50 km/h
+Kalkaji Mandir,Govindpuri,35,6,200,50 km/h
+Rajouri Garden,Tagore Garden,35,3,260,60 km/h
+Ashok Park,Inderlok,10,3,240,40 km/h
+Moti Nagar,Ramesh Nagar,25,1,160,50 km/h
+Ashok Park,Inderlok,15,6,240,50 km/h
+Subhash Nagar,Tilak Nagar,35,10,200,40 km/h
+Rajouri Garden,Tagore Garden,35,7,280,40 km/h
+India Gate,Rashtrapati Bhavan,25,4,260,40 km/h
+Rajendra Place,Patel Nagar,12,4,220,40 km/h
+Inderlok,Kashmere Gate,30,3,150,50 km/h
+Rajendra Place,Patel Nagar,5,4,220,50 km/h
+Central Secretariat,Lajpat Nagar,35,2,180,40 km/h
+Patel Nagar,Shadipur,10,10,260,40 km/h
+Bahadurgarh,Mundka,7,2,260,50 km/h
+Parliament House,Janpath,25,10,160,40 km/h
+Janakpuri,Uttam Nagar,30,2,180,60 km/h
+Okhla,Jasola,10,4,240,60 km/h
+Inderlok,Kashmere Gate,25,5,150,40 km/h
+Kirti Nagar,Rajouri Garden,10,1,200,60 km/h
+Tagore Garden,Subhash Nagar,20,5,180,60 km/h
+Tagore Garden,Subhash Nagar,15,7,280,60 km/h
+Govindpuri,Okhla,35,8,190,40 km/h
+Inderlok,Kashmere Gate,5,3,280,60 km/h
+Kirti Nagar,Rajouri Garden,12,2,200,40 km/h
+Faridabad,Ballabhgarh,15,5,220,40 km/h
+Tagore Garden,Subhash Nagar,15,12,190,60 km/h
+Jasola,Sarita Vihar,12,7,150,50 km/h
+Janpath,Karol Bagh,12,12,240,40 km/h
+Patel Nagar,Shadipur,20,4,160,40 km/h
+Dwarka,Dwarka Mor,20,1,280,60 km/h
+Inderlok,Kashmere Gate,10,7,200,40 km/h
+Mandi House,Barakhamba,30,5,200,60 km/h
+Najafgarh,Bahadurgarh,18,8,260,60 km/h
+Moti Nagar,Ramesh Nagar,15,2,240,60 km/h
+Dwarka Mor,Najafgarh,35,4,180,60 km/h
+Punjabi Bagh,Ashok Park,5,3,180,60 km/h
+Rajendra Place,Patel Nagar,10,1,180,40 km/h
+Dwarka Mor,Najafgarh,25,2,200,60 km/h
+Red Fort,Jama Masjid,18,3,170,60 km/h
+Rashtrapati Bhavan,Parliament House,35,12,220,50 km/h
+Subhash Nagar,Tilak Nagar,18,5,240,40 km/h
+Dwarka Mor,Najafgarh,25,5,240,50 km/h
+India Gate,Rashtrapati Bhavan,30,4,280,50 km/h
+Okhla,Jasola,7,4,220,60 km/h
+Ramesh Nagar,Kirti Nagar,7,1,150,40 km/h
+Karol Bagh,Rajendra Place,10,1,190,40 km/h
+Moti Nagar,Ramesh Nagar,7,3,150,40 km/h
+Janakpuri,Uttam Nagar,15,10,150,50 km/h
+Tilak Nagar,Janakpuri,10,12,180,60 km/h
+Ramesh Nagar,Kirti Nagar,25,7,260,60 km/h
+Jama Masjid,Delhi Gate,35,4,170,50 km/h
+Tagore Garden,Subhash Nagar,5,7,180,40 km/h
+Najafgarh,Bahadurgarh,20,10,260,60 km/h
+Chandni Chowk,Red Fort,12,5,170,50 km/h
+Rajendra Place,Patel Nagar,15,12,150,50 km/h
+Moti Nagar,Ramesh Nagar,30,7,160,60 km/h
+Moti Nagar,Ramesh Nagar,25,12,170,60 km/h
+Bahadurgarh,Mundka,5,5,260,40 km/h
+Inderlok,Kashmere Gate,20,3,280,60 km/h
+Najafgarh,Bahadurgarh,35,7,200,40 km/h
+Rajouri Garden,Tagore Garden,35,3,170,40 km/h
+Tagore Garden,Subhash Nagar,15,6,220,50 km/h
+Najafgarh,Bahadurgarh,20,7,240,50 km/h
+Rajendra Place,Patel Nagar,18,10,260,40 km/h
+Parliament House,Janpath,35,10,280,60 km/h
+Kirti Nagar,Rajouri Garden,18,2,170,50 km/h
+Mandi House,Barakhamba,12,5,280,50 km/h
+Rashtrapati Bhavan,Parliament House,15,8,240,60 km/h
+Janpath,Karol Bagh,20,5,160,40 km/h
+Parliament House,Janpath,20,8,240,60 km/h
+Ashok Park,Inderlok,5,2,190,40 km/h
+Badarpur,Faridabad,25,5,200,50 km/h
+Shadipur,Moti Nagar,10,12,280,40 km/h
+Mandi House,Barakhamba,35,3,190,40 km/h
+India Gate,Rashtrapati Bhavan,10,10,240,60 km/h
+Jasola,Sarita Vihar,7,4,180,50 km/h
+Mandi House,Barakhamba,10,3,200,50 km/h
+Badarpur,Faridabad,15,8,220,50 km/h
+Jasola,Sarita Vihar,30,12,200,50 km/h
+Kashmere Gate,Chandni Chowk,18,5,220,60 km/h
+Punjabi Bagh,Ashok Park,5,10,220,60 km/h
+Delhi Gate,Mandi House,25,8,170,50 km/h
+Okhla,Jasola,15,10,180,60 km/h
+Jasola,Sarita Vihar,15,2,260,40 km/h
+Lajpat Nagar,Nehru Place,5,10,170,40 km/h
+Uttam Nagar,Dwarka,20,12,220,50 km/h
+Mandi House,Barakhamba,5,5,180,40 km/h
+Karol Bagh,Rajendra Place,35,3,260,50 km/h
+Mandi House,Barakhamba,7,3,260,40 km/h
+Tagore Garden,Subhash Nagar,30,3,260,40 km/h
+Moti Nagar,Ramesh Nagar,18,7,170,50 km/h
+Moti Nagar,Ramesh Nagar,15,6,260,50 km/h
+Govindpuri,Okhla,18,1,170,60 km/h
+Punjabi Bagh,Ashok Park,5,10,280,60 km/h
+Shadipur,Moti Nagar,20,1,150,50 km/h
+Ramesh Nagar,Kirti Nagar,35,10,180,60 km/h
+India Gate,Rashtrapati Bhavan,5,7,220,60 km/h
+Mohan Estate,Badarpur,7,2,190,40 km/h
+Janpath,Karol Bagh,35,4,280,40 km/h
+Moti Nagar,Ramesh Nagar,25,8,240,40 km/h
+Red Fort,Jama Masjid,20,10,150,50 km/h
+Tilak Nagar,Janakpuri,7,5,240,60 km/h
+Central Secretariat,Lajpat Nagar,5,1,170,50 km/h
+Mandi House,Barakhamba,35,2,260,60 km/h
+Rashtrapati Bhavan,Parliament House,20,8,190,60 km/h
+Janpath,Karol Bagh,10,1,170,40 km/h
+Bahadurgarh,Mundka,30,2,180,40 km/h
+Rajiv Chowk,Central Secretariat,10,12,160,40 km/h
+Kirti Nagar,Rajouri Garden,30,7,150,60 km/h
+Barakhamba,Rajiv Chowk,7,2,220,40 km/h
+Mandi House,Barakhamba,10,8,260,50 km/h
+Mohan Estate,Badarpur,20,12,280,60 km/h
+Dwarka Mor,Najafgarh,25,2,200,40 km/h
+Patel Nagar,Shadipur,7,6,180,40 km/h
+Delhi Gate,Mandi House,30,3,180,40 km/h
+Barakhamba,Rajiv Chowk,12,8,170,40 km/h
+Patel Nagar,Shadipur,25,8,260,40 km/h
+Delhi Gate,Mandi House,15,7,190,60 km/h
+Moti Nagar,Ramesh Nagar,25,6,150,50 km/h
+Central Secretariat,Lajpat Nagar,12,12,160,40 km/h
+Moti Nagar,Ramesh Nagar,18,10,180,40 km/h
+Badarpur,Faridabad,35,5,220,40 km/h
+Janakpuri,Uttam Nagar,12,1,150,40 km/h
+Govindpuri,Okhla,20,8,220,40 km/h
+Karol Bagh,Rajendra Place,35,8,180,50 km/h
+Kirti Nagar,Rajouri Garden,5,7,190,40 km/h
+Moti Nagar,Ramesh Nagar,35,2,280,60 km/h
+India Gate,Rashtrapati Bhavan,30,1,180,50 km/h
+Central Secretariat,Lajpat Nagar,25,2,170,50 km/h
+India Gate,Rashtrapati Bhavan,12,4,200,40 km/h
+Kashmere Gate,Chandni Chowk,30,7,260,60 km/h
+Jasola,Sarita Vihar,30,10,190,40 km/h
+Dwarka,Dwarka Mor,35,10,150,60 km/h
+Red Fort,Jama Masjid,18,3,200,50 km/h
+Ashok Park,Inderlok,25,1,220,50 km/h
+Rashtrapati Bhavan,Parliament House,18,2,180,50 km/h
+Red Fort,Jama Masjid,10,10,150,40 km/h
+Uttam Nagar,Dwarka,7,5,180,40 km/h
+Jasola,Sarita Vihar,25,3,260,50 km/h
+Central Secretariat,Lajpat Nagar,30,8,260,60 km/h
+Dwarka,Dwarka Mor,10,2,220,60 km/h
+Govindpuri,Okhla,10,10,240,50 km/h
+Red Fort,Jama Masjid,7,10,280,60 km/h
+Lajpat Nagar,Nehru Place,20,6,280,40 km/h
+Tagore Garden,Subhash Nagar,5,5,180,40 km/h
+Jama Masjid,Delhi Gate,5,7,160,50 km/h
+Faridabad,Ballabhgarh,35,12,280,60 km/h
+Patel Nagar,Shadipur,35,1,260,60 km/h
+Rajendra Place,Patel Nagar,15,5,150,40 km/h
+Rajiv Chowk,Central Secretariat,12,10,180,40 km/h
+Tagore Garden,Subhash Nagar,15,1,240,60 km/h
+Connaught Place,India Gate,18,6,260,60 km/h
+Rajiv Chowk,Central Secretariat,35,12,240,50 km/h
+Punjabi Bagh,Ashok Park,10,10,200,40 km/h
+Jasola,Sarita Vihar,25,3,170,40 km/h
+Central Secretariat,Lajpat Nagar,25,8,150,60 km/h
+Lajpat Nagar,Nehru Place,5,2,160,60 km/h
+Ashok Park,Inderlok,35,4,180,40 km/h
+Shadipur,Moti Nagar,18,8,200,50 km/h
+Tagore Garden,Subhash Nagar,7,7,220,50 km/h
+Mundka,Punjabi Bagh,20,2,200,60 km/h
+Rajouri Garden,Tagore Garden,15,12,200,40 km/h
+Ramesh Nagar,Kirti Nagar,25,5,220,60 km/h
+Red Fort,Jama Masjid,12,6,160,50 km/h
+Kashmere Gate,Chandni Chowk,12,4,160,40 km/h
+Kashmere Gate,Chandni Chowk,7,8,280,40 km/h
+Punjabi Bagh,Ashok Park,35,5,180,40 km/h
+Connaught Place,India Gate,12,8,260,40 km/h
+Tagore Garden,Subhash Nagar,18,1,150,60 km/h
+Red Fort,Jama Masjid,5,6,240,40 km/h
+Patel Nagar,Shadipur,18,5,200,50 km/h
+Dwarka,Dwarka Mor,7,12,150,40 km/h
+Jasola,Sarita Vihar,20,12,260,60 km/h
+Faridabad,Ballabhgarh,18,1,150,40 km/h
+Punjabi Bagh,Ashok Park,15,3,240,50 km/h
+Lajpat Nagar,Nehru Place,20,3,160,50 km/h
+Nehru Place,Kalkaji Mandir,7,7,170,40 km/h
+Subhash Nagar,Tilak Nagar,12,12,240,40 km/h
+Barakhamba,Rajiv Chowk,20,1,160,40 km/h
+India Gate,Rashtrapati Bhavan,25,5,160,60 km/h
+Jama Masjid,Delhi Gate,12,6,150,60 km/h
+Barakhamba,Rajiv Chowk,30,3,180,40 km/h
+Delhi Gate,Mandi House,10,6,200,40 km/h
+Connaught Place,India Gate,18,4,150,40 km/h
+Sarita Vihar,Mohan Estate,18,8,220,40 km/h
+Ramesh Nagar,Kirti Nagar,15,1,160,40 km/h
+Dwarka Mor,Najafgarh,12,5,160,40 km/h
+Rashtrapati Bhavan,Parliament House,20,12,180,40 km/h
+Dwarka Mor,Najafgarh,7,5,200,50 km/h
+India Gate,Rashtrapati Bhavan,10,4,190,60 km/h
+Rajendra Place,Patel Nagar,18,8,240,50 km/h
+Jama Masjid,Delhi Gate,30,10,280,40 km/h
+Parliament House,Janpath,18,12,280,40 km/h
+Connaught Place,India Gate,10,10,190,60 km/h
+Tilak Nagar,Janakpuri,35,6,240,50 km/h
+Connaught Place,India Gate,35,6,240,40 km/h
+Connaught Place,India Gate,12,4,260,50 km/h
+Rajiv Chowk,Central Secretariat,7,7,160,60 km/h
+Inderlok,Kashmere Gate,5,10,240,60 km/h
+Mohan Estate,Badarpur,15,3,160,50 km/h
+Moti Nagar,Ramesh Nagar,18,4,200,60 km/h
+Rajendra Place,Patel Nagar,20,7,180,40 km/h
+Rajouri Garden,Tagore Garden,5,3,150,50 km/h
+Ashok Park,Inderlok,10,12,190,40 km/h
+Lajpat Nagar,Nehru Place,35,3,190,60 km/h
+Jasola,Sarita Vihar,15,3,150,60 km/h
+Subhash Nagar,Tilak Nagar,7,7,220,40 km/h
+Punjabi Bagh,Ashok Park,25,8,240,40 km/h
+Badarpur,Faridabad,12,12,260,40 km/h
+Jasola,Sarita Vihar,15,4,260,40 km/h
+Okhla,Jasola,12,10,190,50 km/h
+Najafgarh,Bahadurgarh,35,2,220,60 km/h
+Najafgarh,Bahadurgarh,7,1,160,40 km/h
+Jasola,Sarita Vihar,20,3,190,50 km/h
+Mundka,Punjabi Bagh,20,10,180,50 km/h
+Tilak Nagar,Janakpuri,35,4,160,60 km/h
+India Gate,Rashtrapati Bhavan,35,4,260,50 km/h
+Tagore Garden,Subhash Nagar,10,6,170,50 km/h
+Punjabi Bagh,Ashok Park,25,1,260,40 km/h
+Parliament House,Janpath,5,3,280,50 km/h
+Jama Masjid,Delhi Gate,7,6,170,50 km/h
+Mandi House,Barakhamba,12,1,190,50 km/h
+Badarpur,Faridabad,20,1,220,40 km/h
+Sarita Vihar,Mohan Estate,30,12,150,60 km/h
+Najafgarh,Bahadurgarh,15,3,150,50 km/h
+Bahadurgarh,Mundka,35,7,160,50 km/h
+Uttam Nagar,Dwarka,7,3,260,40 km/h
+Delhi Gate,Mandi House,7,10,200,50 km/h
+Mandi House,Barakhamba,5,10,240,60 km/h
+Chandni Chowk,Red Fort,35,7,200,50 km/h
+Najafgarh,Bahadurgarh,20,1,180,60 km/h
+Badarpur,Faridabad,15,3,190,50 km/h
+Tilak Nagar,Janakpuri,35,7,240,40 km/h
+Rajendra Place,Patel Nagar,35,3,220,60 km/h
+Najafgarh,Bahadurgarh,12,6,190,50 km/h
+Barakhamba,Rajiv Chowk,20,10,240,50 km/h
+Ramesh Nagar,Kirti Nagar,20,7,240,50 km/h
+Lajpat Nagar,Nehru Place,35,5,220,60 km/h
+Ramesh Nagar,Kirti Nagar,12,2,170,40 km/h
+Janpath,Karol Bagh,12,10,150,50 km/h
+Rashtrapati Bhavan,Parliament House,15,12,150,60 km/h
+Delhi Gate,Mandi House,35,4,280,50 km/h
+Rajendra Place,Patel Nagar,7,2,190,50 km/h
+Chandni Chowk,Red Fort,7,7,220,60 km/h
+Central Secretariat,Lajpat Nagar,35,10,170,40 km/h
+Dwarka,Dwarka Mor,5,3,280,60 km/h
+Inderlok,Kashmere Gate,35,12,260,50 km/h
+Ramesh Nagar,Kirti Nagar,5,3,180,50 km/h
+Karol Bagh,Rajendra Place,30,10,160,60 km/h
+Badarpur,Faridabad,7,7,260,40 km/h
+Inderlok,Kashmere Gate,30,3,190,40 km/h
+Moti Nagar,Ramesh Nagar,10,1,190,40 km/h
+Mundka,Punjabi Bagh,35,8,240,40 km/h
+Nehru Place,Kalkaji Mandir,20,10,280,50 km/h
+Bahadurgarh,Mundka,20,5,170,60 km/h
+Faridabad,Ballabhgarh,30,8,200,40 km/h
+Faridabad,Ballabhgarh,12,6,280,40 km/h
+Tagore Garden,Subhash Nagar,18,4,260,50 km/h
+Rashtrapati Bhavan,Parliament House,20,8,240,50 km/h
+Tagore Garden,Subhash Nagar,12,5,260,60 km/h
+Janpath,Karol Bagh,10,6,220,50 km/h
+Connaught Place,India Gate,18,4,280,40 km/h
+Shadipur,Moti Nagar,5,6,160,40 km/h
+Mandi House,Barakhamba,30,2,200,40 km/h
+Faridabad,Ballabhgarh,15,5,200,50 km/h
+Subhash Nagar,Tilak Nagar,5,10,160,50 km/h
+Chandni Chowk,Red Fort,25,3,180,60 km/h
+Delhi Gate,Mandi House,25,3,180,60 km/h
+Faridabad,Ballabhgarh,15,8,240,60 km/h
+Kashmere Gate,Chandni Chowk,18,7,170,50 km/h
+Okhla,Jasola,12,4,200,60 km/h
+Mundka,Punjabi Bagh,25,6,200,40 km/h
+Rajouri Garden,Tagore Garden,20,8,170,40 km/h
+Kirti Nagar,Rajouri Garden,12,6,280,60 km/h
+Dwarka Mor,Najafgarh,25,10,180,40 km/h
+Janakpuri,Uttam Nagar,5,5,150,40 km/h
+Nehru Place,Kalkaji Mandir,5,8,150,40 km/h
+Uttam Nagar,Dwarka,12,2,160,60 km/h
+Barakhamba,Rajiv Chowk,20,7,160,60 km/h
+Bahadurgarh,Mundka,30,5,200,60 km/h
+Subhash Nagar,Tilak Nagar,30,10,180,60 km/h
+Patel Nagar,Shadipur,7,1,240,40 km/h
+Delhi Gate,Mandi House,35,10,220,40 km/h
+Mundka,Punjabi Bagh,7,7,160,50 km/h
+Jama Masjid,Delhi Gate,5,5,240,40 km/h
+Jama Masjid,Delhi Gate,35,6,280,60 km/h
+Ramesh Nagar,Kirti Nagar,35,3,150,60 km/h
+Ashok Park,Inderlok,12,1,240,40 km/h
+Karol Bagh,Rajendra Place,20,8,200,50 km/h
+Shadipur,Moti Nagar,20,10,190,40 km/h
+Janpath,Karol Bagh,35,6,190,50 km/h
+Kashmere Gate,Chandni Chowk,15,7,150,60 km/h
+Dwarka,Dwarka Mor,18,4,240,50 km/h
+Ashok Park,Inderlok,20,2,150,40 km/h
+Janakpuri,Uttam Nagar,30,8,240,60 km/h
+Lajpat Nagar,Nehru Place,30,8,240,40 km/h
+Mohan Estate,Badarpur,18,5,220,40 km/h
+Punjabi Bagh,Ashok Park,5,10,170,40 km/h
+India Gate,Rashtrapati Bhavan,10,5,260,60 km/h
+Patel Nagar,Shadipur,18,8,220,60 km/h
+Delhi Gate,Mandi House,30,7,240,60 km/h
+Connaught Place,India Gate,10,4,200,50 km/h
+Ramesh Nagar,Kirti Nagar,20,6,190,50 km/h
+Mundka,Punjabi Bagh,30,3,190,50 km/h
+Rajiv Chowk,Central Secretariat,7,3,170,60 km/h
+Rajiv Chowk,Central Secretariat,10,8,170,60 km/h
+Moti Nagar,Ramesh Nagar,18,12,200,40 km/h
+Rajendra Place,Patel Nagar,15,10,200,60 km/h
+Rajiv Chowk,Central Secretariat,18,8,260,40 km/h
+Punjabi Bagh,Ashok Park,25,5,150,40 km/h
+Rashtrapati Bhavan,Parliament House,20,6,180,50 km/h
+Jama Masjid,Delhi Gate,10,2,180,60 km/h
+India Gate,Rashtrapati Bhavan,5,1,180,50 km/h
+Rashtrapati Bhavan,Parliament House,20,3,260,40 km/h
+Kirti Nagar,Rajouri Garden,15,4,280,60 km/h
+Ashok Park,Inderlok,7,4,160,60 km/h
+Delhi Gate,Mandi House,10,3,190,60 km/h
+Govindpuri,Okhla,18,4,240,50 km/h
+Mandi House,Barakhamba,15,3,160,50 km/h
+Red Fort,Jama Masjid,15,6,170,40 km/h
+Mohan Estate,Badarpur,7,10,260,50 km/h
+Okhla,Jasola,7,3,220,40 km/h
+Govindpuri,Okhla,12,7,220,40 km/h
+Mandi House,Barakhamba,7,6,220,50 km/h
+Tilak Nagar,Janakpuri,25,1,260,60 km/h
+Kirti Nagar,Rajouri Garden,7,3,220,60 km/h
+Lajpat Nagar,Nehru Place,25,10,240,60 km/h
+Parliament House,Janpath,15,4,280,50 km/h
+Okhla,Jasola,35,12,240,50 km/h
+Najafgarh,Bahadurgarh,12,8,280,50 km/h
+Shadipur,Moti Nagar,20,10,260,60 km/h
+Janpath,Karol Bagh,20,12,180,50 km/h
+Tagore Garden,Subhash Nagar,7,6,200,60 km/h
+Sarita Vihar,Mohan Estate,15,12,240,50 km/h
+Kalkaji Mandir,Govindpuri,15,4,170,40 km/h
+Najafgarh,Bahadurgarh,5,10,240,50 km/h
+Govindpuri,Okhla,35,8,170,60 km/h
+Mundka,Punjabi Bagh,30,5,260,60 km/h
+Patel Nagar,Shadipur,35,5,190,40 km/h
+Punjabi Bagh,Ashok Park,18,12,190,60 km/h
+Karol Bagh,Rajendra Place,12,3,160,60 km/h
+Barakhamba,Rajiv Chowk,10,2,190,50 km/h
+Chandni Chowk,Red Fort,30,10,280,40 km/h
+Najafgarh,Bahadurgarh,25,10,160,60 km/h
+Ashok Park,Inderlok,25,3,150,60 km/h
+Okhla,Jasola,15,3,160,50 km/h
+Dwarka,Dwarka Mor,5,1,200,50 km/h
+Connaught Place,India Gate,7,4,180,50 km/h
+Mundka,Punjabi Bagh,5,1,280,60 km/h
+Dwarka,Dwarka Mor,18,7,180,40 km/h
+Ramesh Nagar,Kirti Nagar,20,12,170,50 km/h
+Rajiv Chowk,Central Secretariat,7,6,190,50 km/h
+Mandi House,Barakhamba,20,5,150,60 km/h
+Chandni Chowk,Red Fort,15,4,190,50 km/h
+Mohan Estate,Badarpur,15,10,220,50 km/h
+Nehru Place,Kalkaji Mandir,20,7,280,50 km/h
+Parliament House,Janpath,10,5,240,40 km/h
+Ramesh Nagar,Kirti Nagar,10,7,200,60 km/h
+Kalkaji Mandir,Govindpuri,30,6,200,40 km/h
+Faridabad,Ballabhgarh,35,7,200,60 km/h
+Jama Masjid,Delhi Gate,30,8,170,50 km/h
+Barakhamba,Rajiv Chowk,20,2,150,60 km/h
+Ashok Park,Inderlok,10,8,200,50 km/h
+Patel Nagar,Shadipur,15,2,150,60 km/h
+Inderlok,Kashmere Gate,35,2,170,60 km/h
+Najafgarh,Bahadurgarh,35,7,260,60 km/h
+Ramesh Nagar,Kirti Nagar,5,1,220,40 km/h
+Shadipur,Moti Nagar,10,8,160,40 km/h
+Moti Nagar,Ramesh Nagar,35,3,200,40 km/h
+Badarpur,Faridabad,7,4,280,60 km/h
+Moti Nagar,Ramesh Nagar,15,4,170,60 km/h
+Mohan Estate,Badarpur,30,6,260,60 km/h
+Kirti Nagar,Rajouri Garden,7,4,240,40 km/h
+Chandni Chowk,Red Fort,5,3,180,40 km/h
+Ramesh Nagar,Kirti Nagar,5,7,280,40 km/h
+Faridabad,Ballabhgarh,12,3,280,60 km/h
+Najafgarh,Bahadurgarh,30,4,170,50 km/h
+Najafgarh,Bahadurgarh,35,10,150,50 km/h
+Tagore Garden,Subhash Nagar,5,1,160,60 km/h
+Red Fort,Jama Masjid,12,3,260,40 km/h
+Nehru Place,Kalkaji Mandir,12,3,150,40 km/h
+Janakpuri,Uttam Nagar,18,12,240,50 km/h
+Janpath,Karol Bagh,25,7,190,50 km/h
+Red Fort,Jama Masjid,35,4,260,50 km/h
+Barakhamba,Rajiv Chowk,15,1,240,40 km/h
+Barakhamba,Rajiv Chowk,7,7,280,50 km/h
+Govindpuri,Okhla,7,6,280,40 km/h
+Rajouri Garden,Tagore Garden,20,10,280,60 km/h
+Shadipur,Moti Nagar,5,5,180,40 km/h
+Red Fort,Jama Masjid,7,4,170,60 km/h
+Mohan Estate,Badarpur,25,8,180,50 km/h
+Jasola,Sarita Vihar,35,8,240,60 km/h
+Chandni Chowk,Red Fort,15,3,180,60 km/h
+Parliament House,Janpath,15,10,200,50 km/h
+Shadipur,Moti Nagar,18,3,220,50 km/h
+Jasola,Sarita Vihar,20,2,190,40 km/h
+Rashtrapati Bhavan,Parliament House,30,3,220,40 km/h
+Govindpuri,Okhla,25,7,180,40 km/h
+Rajendra Place,Patel Nagar,25,5,260,40 km/h
+Rajiv Chowk,Central Secretariat,15,8,150,40 km/h
+Central Secretariat,Lajpat Nagar,35,12,260,60 km/h
+Okhla,Jasola,30,2,280,40 km/h
+Inderlok,Kashmere Gate,20,12,200,40 km/h
+Nehru Place,Kalkaji Mandir,15,10,150,60 km/h
+Shadipur,Moti Nagar,35,2,220,40 km/h
+Faridabad,Ballabhgarh,25,5,160,40 km/h
+Tilak Nagar,Janakpuri,15,2,190,50 km/h
+Bahadurgarh,Mundka,30,6,150,60 km/h
+Uttam Nagar,Dwarka,20,1,260,40 km/h
+Red Fort,Jama Masjid,25,3,260,60 km/h
+Kalkaji Mandir,Govindpuri,25,2,190,50 km/h
+Karol Bagh,Rajendra Place,20,7,190,40 km/h
+Tagore Garden,Subhash Nagar,35,10,150,40 km/h
+Punjabi Bagh,Ashok Park,12,5,170,60 km/h
+Nehru Place,Kalkaji Mandir,7,12,180,50 km/h
+Moti Nagar,Ramesh Nagar,7,8,160,40 km/h
+Mundka,Punjabi Bagh,30,1,180,60 km/h
+Shadipur,Moti Nagar,20,3,190,50 km/h
+Dwarka,Dwarka Mor,7,4,240,50 km/h
+Sarita Vihar,Mohan Estate,7,8,160,50 km/h
+Red Fort,Jama Masjid,25,2,260,50 km/h
+Barakhamba,Rajiv Chowk,12,7,180,40 km/h
+Mundka,Punjabi Bagh,5,2,280,40 km/h
+Tagore Garden,Subhash Nagar,7,12,170,50 km/h
+Connaught Place,India Gate,20,8,160,60 km/h
+Najafgarh,Bahadurgarh,7,4,280,40 km/h
+Najafgarh,Bahadurgarh,18,5,240,40 km/h
+Kashmere Gate,Chandni Chowk,25,6,200,60 km/h
+Janpath,Karol Bagh,35,6,170,50 km/h
+Govindpuri,Okhla,10,4,150,40 km/h
+Parliament House,Janpath,7,12,150,60 km/h
+Central Secretariat,Lajpat Nagar,18,12,170,60 km/h
+Rajouri Garden,Tagore Garden,18,12,260,50 km/h
+Bahadurgarh,Mundka,7,10,170,50 km/h
+Connaught Place,India Gate,35,5,170,50 km/h
+Janpath,Karol Bagh,35,12,280,60 km/h
+Faridabad,Ballabhgarh,25,1,190,50 km/h
+Okhla,Jasola,18,10,150,40 km/h
+Mundka,Punjabi Bagh,10,8,150,40 km/h
+Delhi Gate,Mandi House,18,5,240,60 km/h
+Dwarka,Dwarka Mor,25,2,240,50 km/h
+Lajpat Nagar,Nehru Place,25,8,200,50 km/h
+Jasola,Sarita Vihar,25,7,170,40 km/h
+Jama Masjid,Delhi Gate,35,4,220,50 km/h
+Faridabad,Ballabhgarh,30,3,180,60 km/h
+Mandi House,Barakhamba,30,4,150,40 km/h
+Rajendra Place,Patel Nagar,25,5,240,50 km/h
+Kalkaji Mandir,Govindpuri,12,8,180,60 km/h
+Okhla,Jasola,20,6,220,50 km/h
+Patel Nagar,Shadipur,30,4,220,60 km/h
+Mohan Estate,Badarpur,20,2,220,60 km/h
+Chandni Chowk,Red Fort,35,6,180,50 km/h
+Chandni Chowk,Red Fort,25,10,240,60 km/h
+Sarita Vihar,Mohan Estate,18,7,190,60 km/h
+Subhash Nagar,Tilak Nagar,20,5,160,60 km/h
+Tagore Garden,Subhash Nagar,5,10,190,50 km/h
+Najafgarh,Bahadurgarh,15,8,280,60 km/h
+Patel Nagar,Shadipur,15,10,160,50 km/h
+Rajiv Chowk,Central Secretariat,15,12,240,60 km/h
+Tagore Garden,Subhash Nagar,7,10,240,50 km/h
+Rajouri Garden,Tagore Garden,30,12,240,40 km/h
+Shadipur,Moti Nagar,10,1,280,40 km/h
+Badarpur,Faridabad,18,1,240,60 km/h
+Karol Bagh,Rajendra Place,15,3,190,50 km/h
+Janpath,Karol Bagh,35,8,200,50 km/h
+Mohan Estate,Badarpur,15,10,280,40 km/h
+Rajendra Place,Patel Nagar,5,6,170,40 km/h
+Ramesh Nagar,Kirti Nagar,20,12,170,40 km/h
+Faridabad,Ballabhgarh,10,7,280,40 km/h
+Inderlok,Kashmere Gate,10,1,260,40 km/h
+Janpath,Karol Bagh,12,8,240,60 km/h
+Faridabad,Ballabhgarh,35,6,160,60 km/h
+Connaught Place,India Gate,25,4,200,60 km/h
+Rashtrapati Bhavan,Parliament House,10,6,200,40 km/h
+Kirti Nagar,Rajouri Garden,15,7,170,60 km/h
+Connaught Place,India Gate,18,7,160,40 km/h
+Red Fort,Jama Masjid,18,1,150,50 km/h
+Kirti Nagar,Rajouri Garden,10,7,170,50 km/h
+Mandi House,Barakhamba,35,2,180,60 km/h
+Okhla,Jasola,18,3,180,40 km/h
+Rajouri Garden,Tagore Garden,25,8,150,50 km/h
+Parliament House,Janpath,5,7,190,50 km/h
+Barakhamba,Rajiv Chowk,10,8,220,50 km/h
+Shadipur,Moti Nagar,10,3,200,50 km/h
+Sarita Vihar,Mohan Estate,20,3,220,40 km/h
+Faridabad,Ballabhgarh,30,4,160,50 km/h
+Inderlok,Kashmere Gate,25,10,180,40 km/h
+Govindpuri,Okhla,12,10,180,50 km/h
+Nehru Place,Kalkaji Mandir,18,3,280,50 km/h
+Badarpur,Faridabad,5,7,170,60 km/h
+Shadipur,Moti Nagar,35,8,150,60 km/h
+Janpath,Karol Bagh,20,3,190,60 km/h
+Rajiv Chowk,Central Secretariat,30,2,220,40 km/h
+Dwarka Mor,Najafgarh,15,10,220,50 km/h
+Mandi House,Barakhamba,15,3,170,60 km/h
+Dwarka,Dwarka Mor,15,8,170,50 km/h
+Punjabi Bagh,Ashok Park,10,7,180,50 km/h
+Janpath,Karol Bagh,15,10,220,60 km/h
+Janakpuri,Uttam Nagar,35,6,190,40 km/h
+Govindpuri,Okhla,5,4,220,50 km/h
+Karol Bagh,Rajendra Place,15,10,180,40 km/h
+Badarpur,Faridabad,30,5,240,50 km/h
+Barakhamba,Rajiv Chowk,7,10,280,50 km/h
+Tagore Garden,Subhash Nagar,7,7,240,60 km/h
+Inderlok,Kashmere Gate,12,4,200,40 km/h
+Ashok Park,Inderlok,35,7,260,40 km/h
+Subhash Nagar,Tilak Nagar,20,1,180,50 km/h
+Kirti Nagar,Rajouri Garden,15,12,260,60 km/h
+Rajouri Garden,Tagore Garden,30,3,160,60 km/h
+Kashmere Gate,Chandni Chowk,10,6,180,40 km/h
+Uttam Nagar,Dwarka,12,8,280,60 km/h
+Rashtrapati Bhavan,Parliament House,7,12,180,60 km/h
+Rajiv Chowk,Central Secretariat,20,6,160,60 km/h
+Delhi Gate,Mandi House,5,8,260,40 km/h
+Bahadurgarh,Mundka,12,2,180,40 km/h
+Ramesh Nagar,Kirti Nagar,7,3,180,40 km/h
+Delhi Gate,Mandi House,10,1,220,60 km/h
+Uttam Nagar,Dwarka,7,5,170,40 km/h
+Lajpat Nagar,Nehru Place,18,10,180,40 km/h
+Parliament House,Janpath,18,3,240,50 km/h
+Tilak Nagar,Janakpuri,15,2,180,50 km/h
+Bahadurgarh,Mundka,5,7,150,40 km/h
+Dwarka,Dwarka Mor,7,3,150,50 km/h
+Ashok Park,Inderlok,25,5,160,60 km/h
+Rajiv Chowk,Central Secretariat,7,7,220,50 km/h
+Mohan Estate,Badarpur,7,10,160,60 km/h
+Badarpur,Faridabad,12,7,190,40 km/h
+Barakhamba,Rajiv Chowk,25,8,160,50 km/h
+Kashmere Gate,Chandni Chowk,12,2,190,60 km/h
+Govindpuri,Okhla,10,5,190,50 km/h
+Dwarka,Dwarka Mor,5,2,220,40 km/h
+Okhla,Jasola,35,3,280,50 km/h
+Kashmere Gate,Chandni Chowk,20,4,190,50 km/h
+Rajendra Place,Patel Nagar,12,6,180,40 km/h
+Najafgarh,Bahadurgarh,5,7,260,60 km/h
+Connaught Place,India Gate,10,1,150,60 km/h
+Uttam Nagar,Dwarka,25,8,160,40 km/h
+Lajpat Nagar,Nehru Place,7,10,190,50 km/h
+Lajpat Nagar,Nehru Place,18,12,180,40 km/h
+Dwarka,Dwarka Mor,30,3,200,50 km/h
+Tilak Nagar,Janakpuri,25,8,200,50 km/h
+Kirti Nagar,Rajouri Garden,35,1,220,60 km/h
+Patel Nagar,Shadipur,35,6,220,50 km/h
+Jasola,Sarita Vihar,30,7,240,50 km/h
+Rajendra Place,Patel Nagar,20,2,180,60 km/h
+Kalkaji Mandir,Govindpuri,5,1,150,40 km/h
+Rashtrapati Bhavan,Parliament House,20,3,200,60 km/h
+Connaught Place,India Gate,5,7,260,50 km/h
+Delhi Gate,Mandi House,12,7,280,50 km/h
+Govindpuri,Okhla,30,3,260,50 km/h
+Okhla,Jasola,12,12,160,50 km/h
+Rajendra Place,Patel Nagar,20,12,280,60 km/h
+Kalkaji Mandir,Govindpuri,25,2,260,40 km/h
+Ashok Park,Inderlok,5,8,260,40 km/h
+India Gate,Rashtrapati Bhavan,25,3,260,60 km/h
+Central Secretariat,Lajpat Nagar,15,12,190,50 km/h
+Parliament House,Janpath,25,8,190,40 km/h
+Govindpuri,Okhla,30,2,200,50 km/h
+Kirti Nagar,Rajouri Garden,18,10,220,50 km/h
+Sarita Vihar,Mohan Estate,25,7,150,60 km/h
+Dwarka Mor,Najafgarh,7,1,170,40 km/h
+Tilak Nagar,Janakpuri,25,3,180,40 km/h
+Subhash Nagar,Tilak Nagar,25,2,200,60 km/h
+Mohan Estate,Badarpur,18,10,200,50 km/h
+Govindpuri,Okhla,12,5,170,50 km/h
+Central Secretariat,Lajpat Nagar,10,3,220,40 km/h
+Dwarka Mor,Najafgarh,35,1,280,40 km/h
+Badarpur,Faridabad,18,10,160,40 km/h
+Tagore Garden,Subhash Nagar,20,4,160,50 km/h
+Nehru Place,Kalkaji Mandir,5,2,180,50 km/h
+Kalkaji Mandir,Govindpuri,15,3,280,60 km/h
